@@ -1,6 +1,6 @@
 import sys
-import multiprocessing
 import subprocess
+import concurrent.futures
 from bs4 import BeautifulSoup
 
 
@@ -14,23 +14,27 @@ def search_students(page_number: int) -> str:
     Returns:
         str: The output of the curl command as a string.
     """
-    global SI_SESSION, SI_SECURITY
-    curl_command = f'curl -b "SI_SESSION={SI_SESSION};SI_SECURITY={SI_SECURITY}" "https://sigarra.up.pt/feup/pt/fest_geral.fest_list?pv_estado=1&pv_curso_id=22841&pv_ano_curr_max=1&pv_n_registos=10&pv_num_pag={page_number}"'
+    global SI_SESSION, SI_SECURITY, YEARS_TO_SEARCH, COURSE_TO_SEARCH
+    curl_command = f'curl -b "SI_SESSION={SI_SESSION};SI_SECURITY={SI_SECURITY}" "https://sigarra.up.pt/feup/pt/fest_geral.fest_list?pv_estado=1&pv_curso_id={COURSE_TO_SEARCH}&pv_n_registos=50&pv_num_pag={page_number}"'
 
     print(f"Searching for students on page {page_number}: {curl_command}")
 
     result = subprocess.run(curl_command, shell=True, capture_output=True, text=True, encoding="iso-8859-15")
     return result.stdout
 
-def get_student_ids():
+def get_student_ids() -> tuple:
     """
-    Returns a tuple of sorted student IDs by scraping Sigarra using multiprocessing.
+    This function uses multithreading to scrape Sigarra for student IDs. It creates a thread pool of threads
+    and maps the search_students function to a range of 1 to 1000. The results are then parsed using BeautifulSoup and the
+    student IDs are extracted from the HTML. The IDs are then sorted and returned as a tuple.
 
     Returns:
     tuple: A tuple of sorted student IDs (strings).
     """
+    global MAX_THREADS
     student_ids = []
-    with multiprocessing.Pool() as pool: results = pool.map(search_students, range(1, 110))
+    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_THREADS) as executor:
+        results = executor.map(search_students, range(1, 1000))
     list_pages = tuple(BeautifulSoup(result, 'html.parser') for result in results)
 
     for page in list_pages:
@@ -39,7 +43,7 @@ def get_student_ids():
                 student_ids.append(tr.findChildren()[0].find('a', {'title': 'Visualizar estudante'}).text.strip())
     return tuple(sorted(student_ids))
 
-def is_first_yeat(student_id: str) -> str:
+def filter_student_IDs(student_id: str) -> str:
     """
     Retrieves the HTML page for a student ID from the SIGARRA website.
 
@@ -67,19 +71,33 @@ def is_first_yeat(student_id: str) -> str:
     return False
 
 def main():
-    student_list = get_student_ids()
-    student_list = tuple(filter(is_first_yeat, student_list))
-    print("Nº of Students in first year of computer science:", len(student_list))
-    for x in student_list:
-        print(x)
-    for x in student_list:
-        print(f"up{x}@up.pt")
+    global YEARS_TO_SEARCH, COURSE_TO_SEARCH
+    student_IDs = get_student_ids()
+    print(f"Nº of Student IDs found:", student_IDs)
+    student_Data = tuple(filter(filter_student_IDs, student_IDs))
+    print(f"Nº of Students found in Course({COURSE_TO_SEARCH}), in Years({YEARS_TO_SEARCH}):", len(student_Data))
 
 
 
 if __name__ == "__main__":
+    # Define default values
     with open(sys.argv[1], 'r') as file:
         SI_SESSION  = file.readline().strip()
         SI_SECURITY = file.readline().strip()
-    YEARS_TO_SEARCH = [x for x in sys.argv[2]]
+    YEARS_TO_SEARCH = ["1"]
+    COURSE_TO_SEARCH = 22841
+    MAX_THREADS = 50
+
+    # Parse arguments
+    for x in sys.argv[2:]:
+        match x[:2]:
+            case "-y":
+                YEARS_TO_SEARCH = [y for y in x[:2]]
+            case "-c":
+                COURSE_TO_SEARCH = int(x[:2])
+            case "-t":
+                MAX_THREADS = int(x[:2])
+            case _:
+                print("Invalid argument: {x}")
+                exit()
     main()
