@@ -1,4 +1,4 @@
-# Sigarra-Student-Search
+Sigarra-Student-Search
 
 RUN script.py cookies.txt -c22841 -t50 -y123 \
 cookies.txt -> File with session cookies \
