@@ -11,7 +11,7 @@
             "program": "${file}",
             "console": "integratedTerminal",
             "justMyCode": true,
-            "args": ["cookies.txt"]
+            "args": ["cookies.txt", "-t100", "-y123", "-t5"]
         }
     ]
 }

@@ -3,24 +3,19 @@ import subprocess
 import concurrent.futures
 from bs4 import BeautifulSoup
 
+class bcolors:
+    HEADER = '\033[95m'
+    OKBLUE = '\033[94m'
+    OKCYAN = '\033[96m'
+    OKGREEN = '\033[92m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    LIGHTGREY = '\033[37m'
+    DARKGREY = '\033[90m'
+    ENDC = '\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
 
-def search_students(page_number: int) -> str:
-    """
-    Searches for students in Sigarra on a specific page number using a curl command.
-
-    Args:
-        page_number (int): The page number to search for students on.
-
-    Returns:
-        str: The output of the curl command as a string.
-    """
-    global SI_SESSION, SI_SECURITY, YEARS_TO_SEARCH, COURSE_TO_SEARCH
-    curl_command = f'curl -b "SI_SESSION={SI_SESSION};SI_SECURITY={SI_SECURITY}" "https://sigarra.up.pt/feup/pt/fest_geral.fest_list?pv_estado=1&pv_curso_id={COURSE_TO_SEARCH}&pv_n_registos=50&pv_num_pag={page_number}"'
-
-    print(f"Searching for students on page {page_number}: {curl_command}")
-
-    result = subprocess.run(curl_command, shell=True, capture_output=True, text=True, encoding="iso-8859-15")
-    return result.stdout
 
 def get_student_ids() -> tuple:
     """
@@ -31,52 +26,114 @@ def get_student_ids() -> tuple:
     Returns:
     tuple: A tuple of sorted student IDs (strings).
     """
-    global MAX_THREADS
-    student_ids = []
-    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_THREADS) as executor:
-        results = executor.map(search_students, range(1, 1000))
-    list_pages = tuple(BeautifulSoup(result, 'html.parser') for result in results)
 
-    for page in list_pages:
+    def page_number_to_search() -> int:
+        """
+        Retrieves the number of pages to search for a given course.
+
+        Returns:
+        int: The number of pages to search.
+        """
+
+        global SI_SESSION, SI_SECURITY, YEARS_TO_SEARCH, COURSE_TO_SEARCH
+        curl_command = f'curl -b "SI_SESSION={SI_SESSION};SI_SECURITY={SI_SECURITY}" "https://sigarra.up.pt/feup/pt/fest_geral.fest_list?pv_estado=1&pv_curso_id={COURSE_TO_SEARCH}&pv_n_registos=50&pv_num_pag=1"'
+        print(f"Retrieving number of pages: {bcolors.DARKGREY}{curl_command}{bcolors.ENDC}")
+        result = subprocess.run(curl_command, shell=True, capture_output=True, text=True, encoding="iso-8859-15")
+        page = BeautifulSoup(result.stdout, 'html.parser')
+        n = int(page.find('p', {'class': 'paginar-registos'}).text.strip().split(' ')[-1]) // 50 + 1
+        print(f"Found {bcolors.OKCYAN}{n}{bcolors.ENDC} pages.")
+        return n
+
+    def search_students(page_number: int) -> tuple:
+        """
+        Searches for students in Sigarra on a specific page number using a curl command.
+
+        Args:
+            page_number (int): The page number to search for students on.
+
+        Returns:
+            tuple: A tuple containing the IDs of the students found on the specified page.
+        """
+        
+        global SI_SESSION, SI_SECURITY, YEARS_TO_SEARCH, COURSE_TO_SEARCH
+        curl_command = f'curl -b "SI_SESSION={SI_SESSION};SI_SECURITY={SI_SECURITY}" "https://sigarra.up.pt/feup/pt/fest_geral.fest_list?pv_estado=1&pv_curso_id={COURSE_TO_SEARCH}&pv_n_registos=50&pv_num_pag={page_number}"'
+
+        print(f'Searching for students on page {bcolors.OKCYAN}{page_number}{bcolors.ENDC}: {bcolors.DARKGREY}"https://sigarra.up.pt/feup/pt/fest_geral.fest_list?pv_estado=1&pv_curso_id={COURSE_TO_SEARCH}&pv_n_registos=50&pv_num_pag={page_number}"{bcolors.ENDC}')
+
+        result = subprocess.run(curl_command, shell=True, capture_output=True, text=True, encoding="iso-8859-15")
+        page = BeautifulSoup(result.stdout, 'html.parser')
+        ids = ()
         for table in page.find_all('table', {'class': 'dados'}):
             for tr in table.find_all('tr', {'class': ['i', 'p']}):
-                student_ids.append(tr.findChildren()[0].find('a', {'title': 'Visualizar estudante'}).text.strip())
+                ids = ids + (tr.findChildren()[0].find('a', {'title': 'Visualizar estudante'}).text.strip(),)
+        return ids
+
+    global MAX_THREADS
+    student_ids = ()
+    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_THREADS) as executor: results = executor.map(search_students, range(1, page_number_to_search() +1))
+    for result in results: student_ids += result
     return tuple(sorted(student_ids))
 
-def filter_student_IDs(student_id: str) -> str:
+
+def filter_student_IDs(student_ids: tuple) -> tuple:
     """
-    Retrieves the HTML page for a student ID from the SIGARRA website.
+    Filters a list of student IDs and retrieves information about each student from the Sigarra website.
 
     Args:
-        student_id (str): The student ID to retrieve the page for.
+    - student_ids (tuple): A tuple containing the student IDs to search for.
 
     Returns:
-        str: The HTML page for the student ID.
+    - tuple: A tuple containing the student ID, name, year, and email address for each student found.
     """
-    global SI_SESSION, SI_SECURITY
-    curl_command = f'curl -b "SI_SESSION={SI_SESSION};SI_SECURITY={SI_SECURITY}" "https://sigarra.up.pt/feup/pt/fest_geral.cursos_list?pv_num_unico={student_id}"'
-
-    print(f"Retrieving page for student ID {student_id}: {curl_command}")
-
-    curl_output = subprocess.run(curl_command, shell=True, capture_output=True, text=True, encoding="iso-8859-15").stdout
     
-    page = BeautifulSoup(curl_output, 'html.parser')
-    for i_curso, curso in enumerate(page.find_all('div', {'class': 'estudante-lista-curso-activo'})):
-        try:
-            if curso.find('div', {'class': 'estudante-lista-curso-nome'}).find('a').text.strip() == "Licenciatura em Engenharia Informática e Computação":
-                if curso.find('table').findChildren()[0].findChildren()[1].text.strip() == "1":
-                    return True
-        except:
-            print(f"Error on student ID {student_id} on course {i_curso}: https://sigarra.up.pt/feup/pt/fest_geral.cursos_list?pv_num_unico={student_id}")
-    return False
+    def filter_student_id(student_id:str) -> tuple:
+        """
+        Retrieves information about a student from the FEUP website given their student ID.
+
+        Args:
+        - student_id (str): The student ID to search for.
+
+        Returns:
+        - tuple: A tuple containing the student ID, name, year, and email address if the student is found. Otherwise, an empty tuple is returned.
+        """
+        global SI_SESSION, SI_SECURITY, COURSE_TO_SEARCH, YEARS_TO_SEARCH
+        curl_command = f'curl -b "SI_SESSION={SI_SESSION};SI_SECURITY={SI_SECURITY}" "https://sigarra.up.pt/feup/pt/fest_geral.cursos_list?pv_num_unico={student_id}"'
+
+        print(f'Retrieving page for student ID {bcolors.OKCYAN}{student_id}{bcolors.ENDC}: {bcolors.DARKGREY}"https://sigarra.up.pt/feup/pt/fest_geral.cursos_list?pv_num_unico={student_id}"{bcolors.ENDC}')
+
+        curl_output = subprocess.run(curl_command, shell=True, capture_output=True, text=True, encoding="iso-8859-15").stdout
+        
+        page = BeautifulSoup(curl_output, 'html.parser')
+        try: name = page.find('div', {'class': 'estudante-info-nome'}).text.strip()
+        except: print(f"Error on student ID {bcolors.FAIL}{student_id}{bcolors.ENDC}: {bcolors.DARKGREY}https://sigarra.up.pt/feup/pt/fest_geral.cursos_list?pv_num_unico={student_id}{bcolors.ENDC}"); return ()
+        for i_curso, curso in enumerate(page.find_all('div', {'class': 'estudante-lista-curso-activo'})):
+            try:
+                if str(curso.find('div', {'class': 'estudante-lista-curso-nome'}).find('a')).find(f"pv_curso_id={COURSE_TO_SEARCH}") != -1:
+                    year = curso.find('table').findChildren()[0].findChildren()[1].text.strip()
+                    if year in YEARS_TO_SEARCH: 
+                        print(f"Found student {bcolors.OKCYAN}{student_id}{bcolors.ENDC} {bcolors.OKGREEN if year=='1' else bcolors.WARNING if year=='2' else bcolors.FAIL}{year}{bcolors.ENDC} {bcolors.LIGHTGREY}{name}{bcolors.ENDC}")
+                        return (student_id, year, name, f"up{student_id}@up.pt")
+            except:
+                print(f"Error on student ID {bcolors.FAIL}{student_id}{bcolors.ENDC} on course {bcolors.FAIL}{i_curso}{bcolors.ENDC}: {bcolors.DARKGREY}https://sigarra.up.pt/feup/pt/fest_geral.cursos_list?pv_num_unico={student_id}{bcolors.ENDC}")
+        return ()
+    
+    global MAX_THREADS
+    student_data = ()
+    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_THREADS) as executor: results = executor.map(filter_student_id, student_ids)
+    for result in results: 
+        if len(result)>0: student_data += (result,)
+    return student_data
+
 
 def main():
     global YEARS_TO_SEARCH, COURSE_TO_SEARCH
     student_IDs = get_student_ids()
-    print(f"Nº of Student IDs found:", student_IDs)
-    student_Data = tuple(filter(filter_student_IDs, student_IDs))
-    print(f"Nº of Students found in Course({COURSE_TO_SEARCH}), in Years({YEARS_TO_SEARCH}):", len(student_Data))
-
+    print(f"Nº of Student IDs found: {bcolors.OKCYAN}{len(student_IDs)}{bcolors.ENDC}")
+    student_Data = filter_student_IDs(student_IDs)
+    print(f"Nº of Students found in Course({bcolors.DARKGREY}{COURSE_TO_SEARCH}{bcolors.ENDC}), in Years({bcolors.DARKGREY}{YEARS_TO_SEARCH}{bcolors.ENDC}): {bcolors.OKCYAN}{len(student_Data)}{bcolors.ENDC}")
+    with open(f"students_{COURSE_TO_SEARCH}.txt", 'w') as file:
+        for student in student_Data: file.write(f"{student[0]}\t{student[1]}\t{student[2]}\t{student[3]}\n")
+    print(f"Saved to {bcolors.WARNING}students_{COURSE_TO_SEARCH}.txt{bcolors.ENDC}")
 
 
 if __name__ == "__main__":
@@ -92,12 +149,14 @@ if __name__ == "__main__":
     for x in sys.argv[2:]:
         match x[:2]:
             case "-y":
-                YEARS_TO_SEARCH = [y for y in x[:2]]
+                YEARS_TO_SEARCH = [y for y in x[2:]]
             case "-c":
-                COURSE_TO_SEARCH = int(x[:2])
+                COURSE_TO_SEARCH = int(x[2:])
             case "-t":
-                MAX_THREADS = int(x[:2])
+                MAX_THREADS = int(x[2:])
             case _:
                 print("Invalid argument: {x}")
                 exit()
+
+    #print(f"Searching for students in course {COURSE_TO_SEARCH} in years {YEARS_TO_SEARCH} with {MAX_THREADS} threads.")
     main()

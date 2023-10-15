@@ -1,0 +1,1248 @@
+199201884	1	Paulo Daniel Duarte Vieira	up199201884@up.pt
+199600197	3	Miguel Flores Brasil Sarmento	up199600197@up.pt
+200102310	3	André Rodrigues Borges	up200102310@up.pt
+200103916	1	Ana Margarida Barbosa Ribeiro Pereira	up200103916@up.pt
+200104344	3	Bruno Filipe de Sousa Loureiro Almeida da Silva	up200104344@up.pt
+200300809	2	Ricardo Manuel Ferreira Monteiro Félix Morais	up200300809@up.pt
+200305243	1	Vanessa Andreia da Silva Oliveira	up200305243@up.pt
+200405988	3	Ricardo Flores Gomes Machado	up200405988@up.pt
+200500586	1	Tiago Manuel da Silva Coelho Gonçalves	up200500586@up.pt
+200700604	3	Ângelo Miguel da Silva Oliveira	up200700604@up.pt
+200706283	3	Maria Rosa Rodrigues Gomes	up200706283@up.pt
+200706716	2	Tiago Emanuel Fernandes Loureiro	up200706716@up.pt
+200801677	3	Jorge Carlos Baptista Duarte	up200801677@up.pt
+200903096	3	Francisco José Nunes Santos	up200903096@up.pt
+200903112	2	Salvador do Vale Ferreira Moreira	up200903112@up.pt
+201001508	1	João Paulo Ferreira Brás	up201001508@up.pt
+201005231	2	Fernando Manuel de Melo Oliveira	up201005231@up.pt
+201104254	2	Ruben Filipe Morais Morgado Osório Ferreira	up201104254@up.pt
+201105191	3	Miguel Faria Curval	up201105191@up.pt
+201105620	3	Fernando Rui Lopes de Lemos Pereira Rodrigues	up201105620@up.pt
+201107323	2	Inês Caldeira Sampaio dos Aidos	up201107323@up.pt
+201202439	2	Carlos Miguel Lopes Figueiredo	up201202439@up.pt
+201202666	3	Bruno Pinto da Silva Drumond	up201202666@up.pt
+201206080	3	Fábio Miguel Caetano Lino	up201206080@up.pt
+201303693	3	Pedro Fardilha Barbeira	up201303693@up.pt
+201304970	2	João Pedro Duarte Loução	up201304970@up.pt
+201305891	3	João Alberto Correia Ribeiro	up201305891@up.pt
+201306340	3	Luís Paulo da Rocha Miranda	up201306340@up.pt
+201402677	3	Jorge Manuel Silva Tavares da Cruz	up201402677@up.pt
+201402718	3	Manuel Anselmo Gomes Moreira	up201402718@up.pt
+201403343	3	João Miguel Aguiar Cunha	up201403343@up.pt
+201403478	3	Gustavo Martins Brandão	up201403478@up.pt
+201404488	1	Ana Beatriz Sousa Pinto	up201404488@up.pt
+201405188	3	Diogo Filipe Pinho Vieira	up201405188@up.pt
+201405280	2	João António Morgado Parada	up201405280@up.pt
+201405904	3	João Augusto Alexandre Fonseca	up201405904@up.pt
+201406255	2	João Serra Vilhena Gusmão	up201406255@up.pt
+201406991	3	Pedro Diogo Veludo Tavares	up201406991@up.pt
+201407191	2	Miguel Lucas Calado Raposo Baptista	up201407191@up.pt
+201407729	3	Sérgio Paulo de Sousa Moreira Neto	up201407729@up.pt
+201503035	3	Helder Emanuel Moreira Bessa	up201503035@up.pt
+201503843	2	Francisco Nogueira Gens	up201503843@up.pt
+201504162	1	Ana Raquel de Melo Pinto	up201504162@up.pt
+201504457	2	Patrícia Isabel da Silva Longo	up201504457@up.pt
+201504823	3	Artur José Gonçalves Zeferino	up201504823@up.pt
+201505916	3	Pedro Miguel Afonso Teixeira	up201505916@up.pt
+201506057	3	Nuno Gonçalo Duarte dos Santos Pinto	up201506057@up.pt
+201506074	3	Miguel Wojciech de Vasconcelos Charchalis	up201506074@up.pt
+201506077	3	Pedro Marques Costa	up201506077@up.pt
+201506449	3	Rafael Nuno Grilo Morgado	up201506449@up.pt
+201507143	2	Ruben Francisco da Costa António	up201507143@up.pt
+201509918	3	Flávio Lobo Vaz	up201509918@up.pt
+201510376	1	Beneeta Mendez	up201510376@up.pt
+201603062	3	Guilherme António de Heleno Lima	up201603062@up.pt
+201603438	3	Diogo Figueiredo Silva	up201603438@up.pt
+201603566	3	Armando Jorge Ferreira Martins	up201603566@up.pt
+201604138	3	Gil Martins Andrade	up201604138@up.pt
+201604450	3	In Young Jang	up201604450@up.pt
+201604558	2	Pedro Nuno Batista Bastos	up201604558@up.pt
+201604906	3	Carlos Rafael Barbosa Madaleno	up201604906@up.pt
+201605125	3	Pedro Santos Pedroso de Lima	up201605125@up.pt
+201605389	3	Emanuel Correia de Sousa Dias Trigo	up201605389@up.pt
+201606166	3	Diogo Soares Rocha	up201606166@up.pt
+201606434	2	Mariana Marques Maio Pereira	up201606434@up.pt
+201606507	2	João Carlos Maia Nogueira	up201606507@up.pt
+201606541	2	Fábio Daniel Vieira Longo	up201606541@up.pt
+201607371	2	Teresa Cristina da Rocha Moreira	up201607371@up.pt
+201607406	3	Carlos Manuel Pires dos Santos	up201607406@up.pt
+201607407	3	Edson Aires Júnior Ferreira	up201607407@up.pt
+201700129	3	Gustavo Speranzini Tosi Tavares	up201700129@up.pt
+201704599	3	Margarida Alves Pinho	up201704599@up.pt
+201704608	3	Miguel Ângelo Pacheco Valente	up201704608@up.pt
+201704976	3	Tomás Manuel de Moura Duarte Agante Martins	up201704976@up.pt
+201704987	3	António Ferreira Cabral de Barbosa Campelo	up201704987@up.pt
+201705558	3	António Lino dos Santos	up201705558@up.pt
+201705768	3	André Magalhães Cruz	up201705768@up.pt
+201706105	3	Miguel Bravo de Almeida e Silva Figueiredo	up201706105@up.pt
+201706415	3	Paulo André Areias Gomes Leal Pinto	up201706415@up.pt
+201706546	3	Válter Ochôa de Spínola Catanho Castro	up201706546@up.pt
+201707001	3	Rui Pedro Fernandes Teixeira	up201707001@up.pt
+201707427	3	João Francisco Ribeiro dos Santos	up201707427@up.pt
+201707984	3	João Paulo Jesus Duarte	up201707984@up.pt
+201708043	3	Maureen Lourena Ah Shu	up201708043@up.pt
+201709375	3	Luís Filipe Pinto Cunha	up201709375@up.pt
+201709560	2	Guilherme Attianese Pereira da Costa	up201709560@up.pt
+201709896	1	Paulo Filipe Fonseca Moreira	up201709896@up.pt
+201800169	3	Bianca Sequeira da Mota	up201800169@up.pt
+201800172	3	Gabriel Augusto Rocco	up201800172@up.pt
+201800698	3	Amanda de Oliveira Silva	up201800698@up.pt
+201800700	3	Tomás Cabral Torres	up201800700@up.pt
+201802112	3	Vasco Marques Lopes Teixeira	up201802112@up.pt
+201804832	3	António José Salazar Correia	up201804832@up.pt
+201804925	3	Bruna Sofia Oliveira Ribeiro	up201804925@up.pt
+201805078	3	João Miguel Santos Lopes	up201805078@up.pt
+201805123	3	Rogério Filipe dos Santos Rocha	up201805123@up.pt
+201805152	3	Diogo da Costa Vale	up201805152@up.pt
+201805156	3	Carlos Daniel dos Santos Reis	up201805156@up.pt
+201805255	3	Vasco Soares Nogueira Garcia	up201805255@up.pt
+201805455	3	Alexandre Antunes Afonso	up201805455@up.pt
+201806102	3	Deborah Marques Lago	up201806102@up.pt
+201806162	3	João Diogo Vila Franca Gonçalves	up201806162@up.pt
+201806242	3	Francisco Rafael dos Santos Borralho	up201806242@up.pt
+201806326	3	Francisco João Gonçalves Calado Araújo	up201806326@up.pt
+201806340	3	Luis Guilherme de Melo Félix Diogo	up201806340@up.pt
+201806496	3	João Pedro Ramos de Sousa	up201806496@up.pt
+201806603	3	Paulo Miguel de Jesus Coutinho dos Santos Fidalgo	up201806603@up.pt
+201806629	3	Ana Sofia Oliveira Teixeira	up201806629@up.pt
+201806762	3	Lara Machado de Medicis	up201806762@up.pt
+201806798	3	Maria Leonor Monteiro Beirão	up201806798@up.pt
+201806838	3	Daniel Costa Basílio	up201806838@up.pt
+201806849	3	Ricardo Gonçalves Pinto	up201806849@up.pt
+201806860	3	André Moreira Leal Leonor	up201806860@up.pt
+201807126	3	Tiago Filipe Castro Viana	up201807126@up.pt
+201807530	3	Nuno André Gomes França	up201807530@up.pt
+201808548	3	Hugo Melvin Monteiro Trindade	up201808548@up.pt
+201808613	3	Naldo Neves Monteiro Delgado	up201808613@up.pt
+201809716	2	Eduardo Escaleira de Sousa	up201809716@up.pt
+201810087	3	João Gabriel Ferreira Alves	up201810087@up.pt
+201900188	2	Daniel Bohrer Lopes	up201900188@up.pt
+201900194	3	Matias Lessa Vaz	up201900194@up.pt
+201900198	3	Vitor Alves Moreira	up201900198@up.pt
+201900643	2	Hegner Schmidel Kautsky	up201900643@up.pt
+201900839	3	Artur Candiani dos Santos	up201900839@up.pt
+201904508	3	Gabriel Amorim Carvalho	up201904508@up.pt
+201904642	3	Pedro Albernaz Moreira	up201904642@up.pt
+201904710	3	Tomé Leite da Cunha	up201904710@up.pt
+201904739	3	João Bernardo Pereira de Sousa	up201904739@up.pt
+201904881	3	João André Bastos Moura	up201904881@up.pt
+201904925	3	Isabel Maria Couto da Silva	up201904925@up.pt
+201904969	3	Ana Cristina Vilão Ramos	up201904969@up.pt
+201905129	3	Ana Catarina Rocha Santos	up201905129@up.pt
+201905166	3	Diogo Tomáz Câmara	up201905166@up.pt
+201905175	3	João Aires Gonçalves	up201905175@up.pt
+201905212	3	João Francisco Campos Moreira	up201905212@up.pt
+201905257	3	Joaquim Alberto Lima Monteiro	up201905257@up.pt
+201905383	3	Diogo Alexandre Paredes Azevedo Costa e Sá	up201905383@up.pt
+201905450	3	Sofia Alves Reis	up201905450@up.pt
+201905451	3	José Carlos Cardiano Mota Gonçalves da Cunha	up201905451@up.pt
+201905517	3	Beatriz Maia da Silva Cruz	up201905517@up.pt
+201905529	3	Ana Raquel Rodrigues dos Reis	up201905529@up.pt
+201905767	3	Luís Carlos Ferreira Freitas	up201905767@up.pt
+201905810	3	Carolina Alexandre Vigário Ferreira	up201905810@up.pt
+201905892	3	João Miguel Ferreira de Araújo Pinto Correia	up201905892@up.pt
+201905971	3	Bruno Rafael Granja Alves	up201905971@up.pt
+201905991	3	Diogo Alexandre Figueiredo Gomes	up201905991@up.pt
+201906031	3	Ana Sofia de Castro Teixeira	up201906031@up.pt
+201906049	3	Alexandre Felgueiras de Morais	up201906049@up.pt
+201906050	2	David Amorim Peixoto	up201906050@up.pt
+201906051	3	Nuno Jorge da Costa Ramos	up201906051@up.pt
+201906067	3	Diogo Miguel Farias Pinto	up201906067@up.pt
+201906072	3	Gabriel Martins Ferreira	up201906072@up.pt
+201906293	3	Pedro Gustavo Veloso Fernandes Carneiro	up201906293@up.pt
+201906355	3	Rui Pedro Mendes Moreira	up201906355@up.pt
+201906379	1	Isabel Machado e Sousa	up201906379@up.pt
+201906576	3	José Luís Barbosa Soares da Silva	up201906576@up.pt
+201906680	3	Domingos José Silva Moreira dos Santos	up201906680@up.pt
+201906834	3	Óscar Gonçalo Martins Esteves	up201906834@up.pt
+201906910	3	Manuel Carlos Ramos Alves	up201906910@up.pt
+201906942	3	Maria João Barbosa Oliveira Correia Campos	up201906942@up.pt
+201907075	3	David José Prata Barbedo Magalhães	up201907075@up.pt
+201907095	3	Nuno Miguel Braga Ramos Antunes	up201907095@up.pt
+201907131	3	Sofia Santos Gomes	up201907131@up.pt
+201907156	3	António Pedro Cabral dos Santos	up201907156@up.pt
+201907201	3	Sofia Sousa Moura	up201907201@up.pt
+201907520	2	Sofia Miguel Montes de Castro Coutinho	up201907520@up.pt
+201907549	3	Ângela Filipa Ribeiro Coelho	up201907549@up.pt
+201907715	3	Bruno Rafael Oliveira Machado	up201907715@up.pt
+201907727	3	Mário Pedro Soares Pinto Mota Ferreira	up201907727@up.pt
+201907816	2	Eduardo Miguel Santos Marques da Silva	up201907816@up.pt
+201907863	2	João Carlos Macedo Rodrigues	up201907863@up.pt
+201907886	3	Inês Margarida Carmezim Guimarães	up201907886@up.pt
+201908057	3	Maria Carlota Gomes Silva	up201908057@up.pt
+201908075	3	Joaquim Tiago Gonçalves Oliveira	up201908075@up.pt
+201908253	3	Francisco Tavares Ventura Barros Nunes	up201908253@up.pt
+201908556	1	Wagner Daniel Teixeira Pedrosa	up201908556@up.pt
+201908676	3	Elton Jerónimo Tamele	up201908676@up.pt
+201909711	2	Daniel António Mendes Novais	up201909711@up.pt
+201909914	3	Eduardo Miguel Magalhães Duarte Correia	up201909914@up.pt
+201909935	3	Daniel Gomes Silva	up201909935@up.pt
+201910200	3	Rafael de Conceicao Cerqueira	up201910200@up.pt
+201910223	3	Fernando Miguel Santos Borges de Barros	up201910223@up.pt
+201911061	1	Pollyanna Stefane da Silva	up201911061@up.pt
+202000130	3	Maria Eduarda Sousa Rabelo	up202000130@up.pt
+202000137	2	Allan Akio Lopes Yoshioka	up202000137@up.pt
+202000141	2	Guilherme de Oliveira Coelho	up202000141@up.pt
+202000149	3	Pedro Henrique Ribeiro de Oliveira	up202000149@up.pt
+202000382	1	Renato Elysson de Morais Belo	up202000382@up.pt
+202000416	3	João Vitor Torres Tedesco	up202000416@up.pt
+202000705	3	Antonio Augusto Brito de Sousa	up202000705@up.pt
+202001337	3	Lucas Borborema Nakajima	up202001337@up.pt
+202002142	1	Guilherme Carvalho de Sousa	up202002142@up.pt
+202002749	2	Tomás Gonçalves Ribeiro Ferreira	up202002749@up.pt
+202002810	2	Lucas Bittencourt de Farias	up202002810@up.pt
+202002811	3	Miguel António Borges Tavares	up202002811@up.pt
+202003386	3	António José Vieira Lima	up202003386@up.pt
+202003474	3	Filipe Rodrigues Fonseca	up202003474@up.pt
+202003518	3	João Nunes Miranda	up202003518@up.pt
+202004151	3	Carlos Manuel da Silva Costa	up202004151@up.pt
+202004159	3	André Gabriel Correia Vieira	up202004159@up.pt
+202004179	3	David Fang	up202004179@up.pt
+202004196	3	Luís Henrique da Cunha Castanho Gonçalves Ganço	up202004196@up.pt
+202004229	3	Francisca Horta Guimarães	up202004229@up.pt
+202004324	3	Pedro Joaquim Alves Oliveira	up202004324@up.pt
+202004374	3	Tiago Campos Lourenço	up202004374@up.pt
+202004380	2	Ana Catarina Novais da Silva	up202004380@up.pt
+202004443	3	Gabriela Dias Salazar Neto Silva	up202004443@up.pt
+202004453	3	Maria Leonor Ribeiro Laranjeira	up202004453@up.pt
+202004461	3	Ana Carolina Araújo Marques de Brito Brandão	up202004461@up.pt
+202004473	3	Maria Eduarda Pacheco Mendes Araújo	up202004473@up.pt
+202004476	3	Rafael Azevedo Alves	up202004476@up.pt
+202004513	3	Inês Ferreira de Almeida	up202004513@up.pt
+202004551	2	Aires Miguel Novo Teixeira	up202004551@up.pt
+202004587	2	João Tomás Cardoso Mata	up202004587@up.pt
+202004606	3	Ana Sofia Silva Pinto	up202004606@up.pt
+202004648	3	Guilherme Soares Sequeira	up202004648@up.pt
+202004656	3	Mariana Solange Monteiro Rocha	up202004656@up.pt
+202004761	3	Gonçalo Jorge Soares Ferreira	up202004761@up.pt
+202004809	3	Guilherme Miguel de Lima Freire	up202004809@up.pt
+202004816	3	Lourenço Alexandre Correia Gonçalves	up202004816@up.pt
+202004823	3	José António Santos Costa	up202004823@up.pt
+202004846	3	João António Teixeira Coelho	up202004846@up.pt
+202004887	2	Diogo Rafael Cardoso Moreira	up202004887@up.pt
+202004898	3	Catarina Rute Pinheiro Barbosa	up202004898@up.pt
+202004990	3	Ricardo Jorge Pereira da Silva	up202004990@up.pt
+202004996	3	Tiago Miguel dos Santos Aleixo	up202004996@up.pt
+202004999	3	Eduardo Duarte da Silva	up202004999@up.pt
+202005015	3	João Pedro Carvalho Correia	up202005015@up.pt
+202005083	3	Nélson Teixeira Campos	up202005083@up.pt
+202005091	3	Ricardo Ribeiro Vieira	up202005091@up.pt
+202005164	1	João Pedro Matos Gonçalves	up202005164@up.pt
+202005204	3	Mariana Bourbon Meireles Dias Nogueira	up202005204@up.pt
+202005209	3	Mónica Azevedo Araújo	up202005209@up.pt
+202005285	3	Guilherme António Cerqueira Magalhães	up202005285@up.pt
+202005304	3	Diogo Silva Leandro	up202005304@up.pt
+202005330	3	Raquel Marques Carneiro	up202005330@up.pt
+202005334	3	Rúben Tiago Oliveira Silva	up202005334@up.pt
+202005369	2	Guilherme de Sousa Carvalho	up202005369@up.pt
+202005428	3	Maria Carlota Gomes Ribeiro Matos Leite	up202005428@up.pt
+202005454	3	Rodrigo Duarte Pires Monteiro	up202005454@up.pt
+202005472	3	Carlos Miguel Poças Oliveira	up202005472@up.pt
+202005478	3	Fábio Alexandre Campos Rocha	up202005478@up.pt
+202005488	3	Miguel Ângelo Aguiar e Nogueira	up202005488@up.pt
+202005501	3	Nuno Miguel Lopes da Silva	up202005501@up.pt
+202005545	3	Linda Inês de Pina Marques Rodrigues	up202005545@up.pt
+202005658	3	Mariana Mota Azevedo	up202005658@up.pt
+202005661	3	Rui Pedro Borges da Silva	up202005661@up.pt
+202005700	3	Simão Queirós Rodrigues	up202005700@up.pt
+202005801	3	João Pedro Brito Veloso	up202005801@up.pt
+202005827	3	José Miguel Ferreira Carvalho	up202005827@up.pt
+202005832	3	Luís Manuel Ribeiro de Sousa	up202005832@up.pt
+202005845	3	Sofia Morais Gonçalves	up202005845@up.pt
+202005846	2	Tomás Cruz e Silva	up202005846@up.pt
+202005932	3	Sofia Alexandra Mesquita Carvalho de Sousa	up202005932@up.pt
+202005977	3	Francisca Correia de Moura Sineiro Andrade	up202005977@up.pt
+202006020	2	Afonso Montenegro Gonçalves Ribeiro da Cruz	up202006020@up.pt
+202006056	3	Bernardo Ferreira Campos	up202006056@up.pt
+202006094	3	Luís Miguel Moura Paiva	up202006094@up.pt
+202006111	2	Francisco Rafael Pereira Teixeira	up202006111@up.pt
+202006141	3	Jose Manuel Henriques Valente Marques de Sousa	up202006141@up.pt
+202006195	3	Rúben Correia Pereira	up202006195@up.pt
+202006281	3	João Francisco da Rocha Sequeira Alves	up202006281@up.pt
+202006302	3	David dos Santos Ferreira	up202006302@up.pt
+202006319	1	Mariana Vasques da Silva Pereira Morais	up202006319@up.pt
+202006345	3	Fábio Almeida Teixeira	up202006345@up.pt
+202006379	3	Eva Filipa da Silva Correia de Carvalho	up202006379@up.pt
+202006408	3	Duarte Filipe Campos Barbosa Lopes	up202006408@up.pt
+202006409	3	Filipe de Azevedo Cardoso	up202006409@up.pt
+202006471	3	Maria Luísa Fontanete Loureiro Salvador	up202006471@up.pt
+202006475	2	Miguel de Sousa Neri	up202006475@up.pt
+202006479	3	Rúben Silvério Fernandes Esteves	up202006479@up.pt
+202006485	3	José Miguel Moreira Isidro	up202006485@up.pt
+202006525	3	João Paulo Silva Santos	up202006525@up.pt
+202006526	3	João Pedro Cardoso do Couto	up202006526@up.pt
+202006605	3	João António Maricato Malva	up202006605@up.pt
+202006608	3	Bruno Alexandre Alves Castanheira	up202006608@up.pt
+202006721	3	Afonso Gouveia Dias	up202006721@up.pt
+202006723	2	Ana Catarina Rodrigues Caires	up202006723@up.pt
+202006728	3	Francisco Lopes Mendonça	up202006728@up.pt
+202006731	3	João Diogo Nunes Cruz	up202006731@up.pt
+202006845	3	Tomás Pereira Maciel	up202006845@up.pt
+202006866	3	António Maria Gameiro Campos Sampaio de Matos	up202006866@up.pt
+202006874	3	Gonçalo Carvalho Marques	up202006874@up.pt
+202006902	3	Sara da Silva Azevedo	up202006902@up.pt
+202006950	3	Vicente Salvador Martinez Lora	up202006950@up.pt
+202007042	3	Alexandre Guimaraes Gomes Correia	up202007042@up.pt
+202007143	2	Gonçalo Ricardo Ribau de Sousa	up202007143@up.pt
+202007163	3	Bárbara Ema Pinto Rodrigues	up202007163@up.pt
+202007189	2	André David Aires de Freitas	up202007189@up.pt
+202007195	2	Catarina Pereira Cruz	up202007195@up.pt
+202007248	2	Sara Isabel Borges da Silva	up202007248@up.pt
+202007253	3	Angy Vanessa da Cruz Pita	up202007253@up.pt
+202007342	3	Maria Sofia Vasconcelos e Sousa Minnemann	up202007342@up.pt
+202007375	3	Guilherme Dias da Rocha Pereira	up202007375@up.pt
+202007448	2	Tiago Alexandre Neiva Oliveira	up202007448@up.pt
+202007485	3	Manuel João Gomes Alves Amorim	up202007485@up.pt
+202007516	3	Miguel Lourenço Pregal de Mesquita Montes	up202007516@up.pt
+202007554	3	Manuel Tadeu Veloso Rodrigues	up202007554@up.pt
+202007585	2	Afonso Magno Rocha Sousa	up202007585@up.pt
+202007623	3	Matilde Pinho Borges Sequeira	up202007623@up.pt
+202007651	3	José Nuno Pascoal Guedes	up202007651@up.pt
+202007664	1	Luís António Torres Ferreira	up202007664@up.pt
+202007675	3	Sandra Patricia Linhares Miranda	up202007675@up.pt
+202007807	2	Manuel Maria Martins Barbosa Pinto	up202007807@up.pt
+202007837	1	Tiago Rui Correia de Castro Moreira	up202007837@up.pt
+202007855	3	João Pedro Matos de Araújo	up202007855@up.pt
+202007888	3	Vitor de Sá Carneiro Bizarro	up202007888@up.pt
+202007945	3	Francisco Castro Monteiro de Sousa Magalhães	up202007945@up.pt
+202008014	3	Afonso da Silva Pinto	up202008014@up.pt
+202008047	3	Bruno Vilela Cardoso Leal	up202008047@up.pt
+202008076	3	Inês Sousa da Silva	up202008076@up.pt
+202008219	3	Mário Jorge dos Santos Borges Branco	up202008219@up.pt
+202008319	3	Tomás Pacheco Pires	up202008319@up.pt
+202008323	3	Afonso Campelo Poças	up202008323@up.pt
+202008405	3	Nuno Martim Viana Penafort	up202008405@up.pt
+202008423	2	António Miguel Miller Aguiar Tavares	up202008423@up.pt
+202008444	3	Clarisse Maria Teixeira de Carvalho	up202008444@up.pt
+202008450	3	Miguel Filipe Rodrigues dos Santos	up202008450@up.pt
+202008467	3	Pedro João Gonçalves Novo Paixão	up202008467@up.pt
+202008487	2	Tomás Rodrigues Coelho Girão	up202008487@up.pt
+202008551	3	Tomás Lopes Pinto de Macedo	up202008551@up.pt
+202008559	2	João Castro Magalhães	up202008559@up.pt
+202008569	3	Ana Rita de Oliveira Carneiro	up202008569@up.pt
+202008789	3	Ricardo António Pinto da Cruz	up202008789@up.pt
+202008790	3	Tiago Rocha Silveira Pires	up202008790@up.pt
+202008859	2	Eriton Laury Felisberto Naife	up202008859@up.pt
+202008860	3	Gabriel Tomaz Machado Júnior	up202008860@up.pt
+202008861	1	José Marcelino Zacarias Júnior	up202008861@up.pt
+202008863	3	Ntsay Zacarias	up202008863@up.pt
+202008864	2	Simião Jorge Mavie	up202008864@up.pt
+202008865	2	Treasure Vanilson Gomes Albasine Langa	up202008865@up.pt
+202008867	3	João Tomás Marques Félix	up202008867@up.pt
+202008868	3	Rodrigo José de Amorim Martins	up202008868@up.pt
+202009291	3	Diogo Alexandre da Silva Santos	up202009291@up.pt
+202009302	2	Tiago Alexandre Rebelo Oliveira	up202009302@up.pt
+202010030	2	Ivan Eugénio Williams Mubai	up202010030@up.pt
+202102355	3	Mansur Mustafin	up202102355@up.pt
+202102358	3	Victor Duarte Frauzino Lima de Matos	up202102358@up.pt
+202102359	3	Felipe Jacob de Jesus Ferreira	up202102359@up.pt
+202102360	3	Ian da Nóbrega Beltrão	up202102360@up.pt
+202102361	2	João Victor Botelho Duarte	up202102361@up.pt
+202102362	3	Luiz Henrique Mamede Queiroz	up202102362@up.pt
+202102363	3	Matheus Negrini Liotti	up202102363@up.pt
+202102365	3	Pedro Henrique Pessôa Camargo	up202102365@up.pt
+202103336	3	Gonçalo Nuno Leitão Pinho da Costa	up202103336@up.pt
+202103337	3	Pedro Jorge Mendes Jesus Landolt	up202103337@up.pt
+202103338	3	Raphael Moragas Dias Taveira Gonçalves	up202103338@up.pt
+202103339	2	Tiago Filipe da Costa Carvalho	up202103339@up.pt
+202103341	3	Diogo Fernando Pinheiro Sousa	up202103341@up.pt
+202103342	3	Eduardo Machado Teixeira de Sousa	up202103342@up.pt
+202103343	3	Inês Alexandre Queirós Matos Macedo de Oliveira	up202103343@up.pt
+202103344	3	José Luiz Rodriguez Caribé	up202103344@up.pt
+202103345	3	Rui Pedro Monteiro Reis Magalhães Teixeira	up202103345@up.pt
+202103346	3	Joana Rita Batista Marques	up202103346@up.pt
+202103627	3	Alberto Daniel Alves Serra	up202103627@up.pt
+202103628	3	Catarina Isabel Moreira Canelas	up202103628@up.pt
+202103631	3	Rui Pedro Rosas Soares	up202103631@up.pt
+202104487	3	Artur Telo Luís	up202104487@up.pt
+202104794	3	Diogo Coutinho da Silva	up202104794@up.pt
+202104805	3	Rafael Ferreira da Costa Silva Valquaresma	up202104805@up.pt
+202104843	2	Francisco Resende Fernandes	up202104843@up.pt
+202105090	3	Guilherme Cortes Pina Oliveira Santos	up202105090@up.pt
+202105288	3	Francisco Pinto Tristão da Cunha Bettencourt	up202105288@up.pt
+202105300	3	Igor Cherstnev	up202105300@up.pt
+202105309	3	Rita Isabel Guedes Correia Leite	up202105309@up.pt
+202105327	3	Diogo Alexandre Oliveira da Silva	up202105327@up.pt
+202105337	3	Eduardo Afonso Soares Ferreira Machado	up202105337@up.pt
+202105352	3	Adriano Alexandre dos Santos Machado	up202105352@up.pt
+202105374	2	Rodrigo Pinto Pesqueira Gaspar Pombo	up202105374@up.pt
+202105378	1	António Pedro Sampaio Fernandes	up202105378@up.pt
+202105385	3	Luís Pedro Du	up202105385@up.pt
+202105647	3	Henrique Gonçalves Graveto Futuro da Silva	up202105647@up.pt
+202106509	2	Francisca Santos Fernandes	up202106509@up.pt
+202106996	3	João Pedro Seabra Pedrosa Botelho de Sousa	up202106996@up.pt
+202107138	2	Afonso São Jorge Simões Gonçalves Pereira	up202107138@up.pt
+202107143	2	Bruno Freitas Moreira	up202107143@up.pt
+202107209	2	João Maria Correia Rebelo	up202107209@up.pt
+202107383	2	Ana Catarina Barbosa Patrício	up202107383@up.pt
+202107486	3	Emanuel Rui Tavano Maia	up202107486@up.pt
+202107525	2	Pedro Moreira Belo Marques	up202107525@up.pt
+202107694	2	Carlos Filipe Oliveira Sanches Pinto	up202107694@up.pt
+202107798	3	Maria Beatriz Monteiro Carneiro	up202107798@up.pt
+202107987	3	Pedro de Teixeira Lopes Basilio Plácido	up202107987@up.pt
+202108044	3	João Pedro Dias Fernandes	up202108044@up.pt
+202108117	3	Nelson José de Oliveira Neto	up202108117@up.pt
+202108167	2	Ana Frederica Ferreira e Pereira	up202108167@up.pt
+202108391	2	Tiago Miguel Miranda Monteiro	up202108391@up.pt
+202108460	2	Diogo Paulo Gomes Dias Leite Neves	up202108460@up.pt
+202108614	2	Jorge Gonçalves Mesquita	up202108614@up.pt
+202108639	2	Tomás Pereira Martins	up202108639@up.pt
+202108653	3	Pedro Emanuel Faria da Fonseca	up202108653@up.pt
+202108654	3	Ana Sofia Ferreira Azevedo	up202108654@up.pt
+202108655	2	Diogo Lima da Silva Costa	up202108655@up.pt
+202108657	3	José Manuel Fernandes Felisberto	up202108657@up.pt
+202108658	3	André Bernardo Ferreira Santos	up202108658@up.pt
+202108659	3	Miguel Filipe Brandão Martins Lima	up202108659@up.pt
+202108660	3	Pedro Miguel Martins Romão	up202108660@up.pt
+202108661	3	Luis Vieira Relvas	up202108661@up.pt
+202108662	3	Luís Miguel Lima Tavares	up202108662@up.pt
+202108663	3	Artur José Albuquerque Oliveira	up202108663@up.pt
+202108664	3	Daniel Filipe Calado de Simas Belém	up202108664@up.pt
+202108665	3	Tomás Miguel Vieira da Câmara	up202108665@up.pt
+202108666	3	Antonio Costa Rego	up202108666@up.pt
+202108667	3	Daniel Cabral Bernardo	up202108667@up.pt
+202108668	3	Guilherme Brandão Monteiro	up202108668@up.pt
+202108669	3	Pedro Filipe Pinho Oliveira	up202108669@up.pt
+202108670	3	João Brandão Alves	up202108670@up.pt
+202108671	3	Alexandre Henrique Silva dos Santos	up202108671@up.pt
+202108672	3	Gonçalo Pedro Nadais de Pinho	up202108672@up.pt
+202108673	3	José Pedro Almeida Batista de Sousa Santos	up202108673@up.pt
+202108674	3	Igor Monteiro de Andrade	up202108674@up.pt
+202108676	3	Sofia Resende Ferreira de Sá	up202108676@up.pt
+202108677	3	João Guimarães Mota	up202108677@up.pt
+202108678	3	Miguel Duarte de Antas de Barros	up202108678@up.pt
+202108679	3	Rodrigo Moisés Baptista Ribeiro	up202108679@up.pt
+202108680	1	Gonçalo Rosas Cunha	up202108680@up.pt
+202108681	3	Sérgio André Correia Peixoto	up202108681@up.pt
+202108682	3	Sofia Vieira Pinto	up202108682@up.pt
+202108683	3	Luís Filipe da Silva Jesus	up202108683@up.pt
+202108684	2	Rafael Alexandre Lemos Selores	up202108684@up.pt
+202108685	3	Ana Carolina da Costa Coutinho	up202108685@up.pt
+202108686	3	Fernando da Silva Pereira Borges Afonso	up202108686@up.pt
+202108687	3	Tomás Paiva Ramos	up202108687@up.pt
+202108689	3	António Henrique Martins Azevedo	up202108689@up.pt
+202108690	3	Eduardo Martins Oliveira	up202108690@up.pt
+202108691	3	João Afonso Carvalho Viveiros	up202108691@up.pt
+202108693	3	Gonçalo Furtado Estrela Ferreira Pinto	up202108693@up.pt
+202108695	3	André dos Santos Faria Relva	up202108695@up.pt
+202108696	3	Lino Branco Vaz	up202108696@up.pt
+202108697	3	Samuel Mendonça Maciel	up202108697@up.pt
+202108698	3	Tomás Rebelo da Silva	up202108698@up.pt
+202108699	3	Tiago Miguel Seixas de Azevedo	up202108699@up.pt
+202108700	3	Afonso Castro Vaz Osorio	up202108700@up.pt
+202108701	3	Tomás de Campos Sucena de Sequeiros Lopes	up202108701@up.pt
+202108703	3	Gonçalo de Abreu Matias	up202108703@up.pt
+202108704	3	António Félix da Costa Ricardo Romão	up202108704@up.pt
+202108706	3	Pedro José Nunes Moutinho de Antas de Barros	up202108706@up.pt
+202108707	3	Gonçalo de Castilho Serra Alves Martins	up202108707@up.pt
+202108708	3	Ricardo Fego Carneiro Araújo de Sousa	up202108708@up.pt
+202108709	2	Mateus Afonso Namora Baldaque Marinho	up202108709@up.pt
+202108711	3	João Filipe de Menezes Falcão e Sousa Guedes	up202108711@up.pt
+202108712	3	José Nuno Barbosa Quintas	up202108712@up.pt
+202108713	3	João Pacheco Veiga Dias da Silva	up202108713@up.pt
+202108714	3	João Pedro Moreira Costa	up202108714@up.pt
+202108715	3	Francisco Dias Pires Ferreira de Sousa	up202108715@up.pt
+202108716	2	Rui Miguel Ferreira Pando	up202108716@up.pt
+202108717	3	Tomás Alexandre Soeiro Vicente	up202108717@up.pt
+202108718	3	Pedro da Cunha Teixeira e Faro Beirão	up202108718@up.pt
+202108719	3	Hélder Gabriel Silva Costa	up202108719@up.pt
+202108720	3	Miguel Diogo Andrade Rocha	up202108720@up.pt
+202108721	3	André Dantas Rodrigues	up202108721@up.pt
+202108722	3	Gabriel Filipe Gonçalves Campos Ferreira	up202108722@up.pt
+202108723	3	João Filipe Moreno Martins	up202108723@up.pt
+202108724	3	André Tiago Moreira Soares da Costa e Silva	up202108724@up.pt
+202108725	3	Henrique Manuel Cordeiro Rodrigues Garde	up202108725@up.pt
+202108726	3	João Moreira da Silva	up202108726@up.pt
+202108727	3	Luís Carlos Novais Alves	up202108727@up.pt
+202108728	3	Domingos Manuel Ordenâ Neto	up202108728@up.pt
+202108729	3	José Miguel Sereno Santos	up202108729@up.pt
+202108730	3	Haochang Fu	up202108730@up.pt
+202108731	3	Guilherme de Sousa Ribeiro	up202108731@up.pt
+202108732	3	João Miguel Vieira Cardoso	up202108732@up.pt
+202108734	3	Luís Miguel Mota Duarte	up202108734@up.pt
+202108735	3	Francisco Silva Cunha Campos	up202108735@up.pt
+202108736	3	João Pedro Antão Sobral	up202108736@up.pt
+202108737	3	João Pedro Cruz Moreira de Oliveira	up202108737@up.pt
+202108738	3	João Tomás Cardinal Pinho Teixeira	up202108738@up.pt
+202108739	3	José Martim Peixoto Campos	up202108739@up.pt
+202108740	3	Lara Santos Bastos	up202108740@up.pt
+202108741	3	Lia Margarida Mota Sobral	up202108741@up.pt
+202108742	3	Luís Filipe Moura Oliveira da Silveira Contreiras	up202108742@up.pt
+202108743	3	João Filipe Oliveira Ramos	up202108743@up.pt
+202108744	3	Manuel Ramos Leite Carvalho Neto	up202108744@up.pt
+202108745	3	Bernardo Antonio Coelho Gonçalves	up202108745@up.pt
+202108746	3	Rita Gonçalves Pereira	up202108746@up.pt
+202108747	3	Diogo Filipe Pereira Santos	up202108747@up.pt
+202108749	3	Rodrigo dos Santos Arteiro Rodrigues	up202108749@up.pt
+202108750	3	Rodrigo Lopes Pedro Simão Resende	up202108750@up.pt
+202108751	3	Samuel Alexandre Cruz Moreira de Oliveira	up202108751@up.pt
+202108752	3	Diogo Tomás Valente Fernandes	up202108752@up.pt
+202108753	3	José Francisco Reis Pedreiras Neves Veiga	up202108753@up.pt
+202108754	3	Pedro Vidal Marcelino	up202108754@up.pt
+202108756	3	Pedro Guilherme Pinto Magalhães	up202108756@up.pt
+202108757	3	Ana Carolina Ribeirinho Soares Almeida	up202108757@up.pt
+202108758	3	Eduardo Luís Fernandes Roçadas	up202108758@up.pt
+202108759	3	Tomás Filipe Fernandes Xavier	up202108759@up.pt
+202108760	3	António Guilherme Sanches de Magalhães Koch e Silva	up202108760@up.pt
+202108761	3	Gonçalo Rodrigues Matos	up202108761@up.pt
+202108762	3	Francisco Pires da Ana	up202108762@up.pt
+202108763	3	David José Soares Castro	up202108763@up.pt
+202108764	3	José Pedro Soares de Oliveira	up202108764@up.pt
+202108766	3	Joao Tomas Matos Fernandes Garcia Padrao	up202108766@up.pt
+202108767	3	Isabel Maria Lima Moutinho	up202108767@up.pt
+202108768	3	Pedro Simão Januário Vieira	up202108768@up.pt
+202108769	3	Andreia Filipa Gonçalves Silva	up202108769@up.pt
+202108770	2	Luís Filipe Gonçalves Fernandes	up202108770@up.pt
+202108771	3	Daniel dos Santos Ferreira	up202108771@up.pt
+202108772	3	Duarte Francisco Sousa Gonçalves	up202108772@up.pt
+202108773	3	Gonçalo Gonçalves Miranda	up202108773@up.pt
+202108774	3	Marco Filipe Gonçalves Vilas Boas	up202108774@up.pt
+202108775	3	Maria Inês Gonçalves Miranda	up202108775@up.pt
+202108776	3	Tomás Eiras Silva Martins	up202108776@up.pt
+202108777	3	João Mendes Silva Belchior	up202108777@up.pt
+202108778	3	Tomás Miranda de Figueiredo Sarmento	up202108778@up.pt
+202108779	3	Joaquim Afonso Marques da Cunha	up202108779@up.pt
+202108780	3	João Carlos Tomé Longras	up202108780@up.pt
+202108781	3	Carolina Cunha Senra Bogas Gonçalves	up202108781@up.pt
+202108782	3	Matilde Isabel da Silva Simões	up202108782@up.pt
+202108783	3	Tiago da Silva Gouveia	up202108783@up.pt
+202108785	3	Hugo Miguel Gonçalves da Costa	up202108785@up.pt
+202108786	3	Ricardo Miguel Pereira do Couto Cardoso	up202108786@up.pt
+202108787	3	João Pedro Rodrigues Coutinho	up202108787@up.pt
+202108788	3	Miguel Morais Dionísio	up202108788@up.pt
+202108789	3	Jaime Francisco Rodrigues Fonseca	up202108789@up.pt
+202108791	3	Daniel José de Aguiar Gago	up202108791@up.pt
+202108792	3	Athos Coghi Freitas	up202108792@up.pt
+202108793	3	Francisco Miguel Correia Mariano Pinheiro Cardoso	up202108793@up.pt
+202108794	3	José António Pereira Martins	up202108794@up.pt
+202108795	3	Madalena Ye	up202108795@up.pt
+202108796	3	Francisco Tomás Marques Lopes	up202108796@up.pt
+202108797	3	Gaspar Manuel Ferrás Faria	up202108797@up.pt
+202108798	3	Ana Rita Varanda Cachaldora Pereira	up202108798@up.pt
+202108799	3	Dany Ferreira	up202108799@up.pt
+202108800	3	Diogo Filipe Couto Monteiro	up202108800@up.pt
+202108801	3	Antonio Marujo Rama	up202108801@up.pt
+202108802	3	Carolina Teixeira Lopes Couto Viana	up202108802@up.pt
+202108803	3	Diogo Silveira Viana	up202108803@up.pt
+202108804	2	Gonçalo Guimarães Gonçalves de Morais Figueira	up202108804@up.pt
+202108805	3	João Afonso Oliveira Teixeira Santos	up202108805@up.pt
+202108806	3	Pedro de Almeida Lima	up202108806@up.pt
+202108807	3	Rui Pedro Braga Carvalho	up202108807@up.pt
+202108808	3	Daniel Dória Pinto	up202108808@up.pt
+202108809	3	Miguel Jose Pinho Freitas de Carvalho Pedrosa	up202108809@up.pt
+202108810	3	Tiago Ribeiro de Sá Cruz	up202108810@up.pt
+202108812	3	Tomás Ballester Carvalho Sousa Pereira	up202108812@up.pt
+202108813	3	Cristiano Filipe Moreira Rocha	up202108813@up.pt
+202108814	3	Gonçalo Bessa Costa	up202108814@up.pt
+202108815	3	Diana Sofia Sampaio Martins	up202108815@up.pt
+202108816	3	Gabriel Anibal dos Santos Sousa	up202108816@up.pt
+202108817	3	Henrique Filipe Pereira da Silva Caridade	up202108817@up.pt
+202108818	3	José Pedro Evans de Carvalho Nobre João	up202108818@up.pt
+202108819	3	Maria Rita Nogueira Lopes	up202108819@up.pt
+202108820	3	David Amorim Cordeiro	up202108820@up.pt
+202108821	3	Marco André Pereira da Costa	up202108821@up.pt
+202108822	3	Miguel Nogueira Marinho	up202108822@up.pt
+202108823	3	João Pedro Oliveira Sequeira	up202108823@up.pt
+202108824	3	Mariana Marujo Conde	up202108824@up.pt
+202108825	3	Pedro Filipe Vale Gomes	up202108825@up.pt
+202108826	3	Pedro Miguel Marques da Silva Pinto	up202108826@up.pt
+202108827	3	Nuno Rodrigo Moreira Silva	up202108827@up.pt
+202108828	3	Tomás Carvalho Gaspar	up202108828@up.pt
+202108829	3	João Miguel de Castro Figueiredo	up202108829@up.pt
+202108830	3	Rúben Filipe Vaz Fonseca	up202108830@up.pt
+202108831	3	Rafael Neves Teixeira	up202108831@up.pt
+202108832	3	Daniel Moreira Carneiro	up202108832@up.pt
+202108833	3	João Pedro Sá Torres Neiva Passos	up202108833@up.pt
+202108834	3	António Rodolfo de Almeida Seara Ferreira	up202108834@up.pt
+202108835	3	Joana Cerqueira Maia	up202108835@up.pt
+202108836	3	Jose Pedro Trocado Ferreira	up202108836@up.pt
+202108837	3	Félix Marcial Alves Martins	up202108837@up.pt
+202108838	3	Francisco Gonçalves de Sousa	up202108838@up.pt
+202108839	3	Gonçalo Lísias Possacos dos Santos	up202108839@up.pt
+202108840	3	Tiago da Silva Azevedo	up202108840@up.pt
+202108841	3	Mário Costa Rêgo da Silva	up202108841@up.pt
+202108842	3	Bernardo Dinis Guimarães Pinto	up202108842@up.pt
+202108843	3	Eduardo José Neto Oliveira	up202108843@up.pt
+202108844	2	Pedro Marques Moreira	up202108844@up.pt
+202108845	3	Tomás Alexandre Torres Pereira	up202108845@up.pt
+202108847	3	Rodrigo Campos Rodrigues	up202108847@up.pt
+202108848	3	João Torre Onofre Pereira	up202108848@up.pt
+202108849	3	Maria Abreu da Costa	up202108849@up.pt
+202108850	3	Ricardo Nuno Pena Leite	up202108850@up.pt
+202108851	3	Miguel Martins Leitao	up202108851@up.pt
+202108852	3	Inês Martin Soares	up202108852@up.pt
+202108853	3	Matilde Faro Martins Castelo Pires	up202108853@up.pt
+202108855	3	Rodrigo José Ramos Moucho	up202108855@up.pt
+202108856	3	André Gonçalves Pinto	up202108856@up.pt
+202108857	3	Tiago Tavares Simões	up202108857@up.pt
+202108858	3	Tomas Alves Moreira	up202108858@up.pt
+202108859	3	Eduardo Renato Fernandes Barbosa	up202108859@up.pt
+202108860	3	Beatriz Ferreira de Almeida	up202108860@up.pt
+202108861	3	Tomás Henrique Ribeiro Coelho	up202108861@up.pt
+202108863	3	João Miguel da Silva Lourenço	up202108863@up.pt
+202108864	3	João Tiago Morais Lourenço	up202108864@up.pt
+202108865	3	Miguel José da Silva Garfejo	up202108865@up.pt
+202108866	3	Pedro Rafael Angélico Madureira	up202108866@up.pt
+202108867	3	João das Neves Fernandes	up202108867@up.pt
+202108868	3	José António Rodrigues Ribeiro	up202108868@up.pt
+202108869	3	Marcos António Sousa Costa	up202108869@up.pt
+202108870	3	Rodrigo Gonçalves Figueiredo	up202108870@up.pt
+202108871	3	Bruno Miguel Lopes da Rocha Fernandes	up202108871@up.pt
+202108872	3	Guilherme Correia da Silva Coutinho	up202108872@up.pt
+202108873	3	João Diogo Figueiredo	up202108873@up.pt
+202108874	3	Manuel Maria Faria de Sousa e Silva	up202108874@up.pt
+202108875	3	Diogo Carvalho Pintado	up202108875@up.pt
+202108876	3	Lara Inês Alves Cunha	up202108876@up.pt
+202108877	3	Letícia Mendes Coelho	up202108877@up.pt
+202108878	3	Rui Pedro Almeida da Silveira	up202108878@up.pt
+202108879	3	Jose Henrique Nogueira Campos de Morais Pinheiro	up202108879@up.pt
+202108880	3	Tomás Figueiredo Marques Palma	up202108880@up.pt
+202108881	3	Vasco Moutinho de Oliveira	up202108881@up.pt
+202108882	2	André Moreira Teixeira	up202108882@up.pt
+202108883	3	Diogo Alexandre Soares Martins	up202108883@up.pt
+202108884	3	Afonso Machado Neves	up202108884@up.pt
+202108885	3	Carlos Daniel Lopes Rebelo	up202108885@up.pt
+202108886	3	Jorge André Colaço Restivo	up202108886@up.pt
+202108887	3	Máximo Brandão Pereira	up202108887@up.pt
+202108888	3	Miguel Teixeira Lopes da Fonte	up202108888@up.pt
+202108889	3	Miguel Jorge Medeiros Garrido	up202108889@up.pt
+202108890	3	Rodrigo André Carvalho Póvoa	up202108890@up.pt
+202108891	3	João Macedo Lima	up202108891@up.pt
+202108892	3	Pedro Miguel Oliveira Estela	up202108892@up.pt
+202108893	3	Rafael António Fernandes Aldeias	up202108893@up.pt
+202108894	3	Xavier Maria Pimenta Santos	up202108894@up.pt
+202108895	3	Xavier Ribeiro Outeiro	up202108895@up.pt
+202109242	3	Aléssia Águeda Tiberio Jorge	up202109242@up.pt
+202109243	2	Allan Ferreira Rebeca dos Santos	up202109243@up.pt
+202109244	3	Bruno Miguel de Siuéia Duvane	up202109244@up.pt
+202109245	1	Danilo dos Santos Oliveira	up202109245@up.pt
+202109246	2	Daunísia Augusto Jone	up202109246@up.pt
+202109247	2	Diomaxi António Morais	up202109247@up.pt
+202109250	2	Igor de Jesus Barreto Rodrigues	up202109250@up.pt
+202109251	3	Jennifer Cristina José Manuel Ricardo	up202109251@up.pt
+202109252	3	Jerson Narciso Amone	up202109252@up.pt
+202109253	2	Kaamil Nurmahomed Hassane	up202109253@up.pt
+202109254	2	Magalhães Bramugi Júnior	up202109254@up.pt
+202109256	3	Patrícia Palmira de Sousa	up202109256@up.pt
+202109257	2	Rosa Noé Chilengue	up202109257@up.pt
+202109258	2	Sheila Maria Lourenço Albino	up202109258@up.pt
+202109260	3	Wallen Marcos Ribeiro	up202109260@up.pt
+202109649	2	Benjamim José Carneiro Teixeira Barbosa	up202109649@up.pt
+202109661	2	Pedro José Teixeira Torrão	up202109661@up.pt
+202109663	3	Diogo Miranda de Figueiredo Sarmento	up202109663@up.pt
+202109752	2	Adriana Isabel Correia de Almeida	up202109752@up.pt
+202109775	3	André Pinto de Sousa	up202109775@up.pt
+202109812	2	Camila Santos Silva	up202109812@up.pt
+202109860	3	Davide Pinto Teixeira	up202109860@up.pt
+202109923	2	Vasco Monteiro Costa	up202109923@up.pt
+202200038	2	Gabriel Henrique Santos de Moura	up202200038@up.pt
+202200040	2	José Eduardo de Oliveira Silveira	up202200040@up.pt
+202200041	2	Leonardo Rocha Santos Garcia	up202200041@up.pt
+202200042	2	Marcel Segundo Medeiros	up202200042@up.pt
+202200044	2	Pedro Andrade de Castro	up202200044@up.pt
+202200045	1	Pedro Souza Souto Amancio Gouveia	up202200045@up.pt
+202201389	2	Bogos Bedik Chaves Sismanoglu	up202201389@up.pt
+202201391	2	Manoela Blanke Américo	up202201391@up.pt
+202204134	2	Diogo Fernando Assunção Bento	up202204134@up.pt
+202204135	2	Diogo Miguel Moreira Pereira de Sousa	up202204135@up.pt
+202204353	2	Beatriz Filomena Remondes de Oliveira	up202204353@up.pt
+202204354	3	Leonor Filipe Fragoso e Santos	up202204354@up.pt
+202204802	2	Maria João Oliveira Vieira	up202204802@up.pt
+202204803	2	Maria Leonor Taveira de Barros	up202204803@up.pt
+202204857	2	José Pedro Afonso Martins	up202204857@up.pt
+202204873	2	Gonçalo José Dias Carvalho	up202204873@up.pt
+202204875	2	Guilherme Ribeiro de Campelo Teixeira	up202204875@up.pt
+202204883	2	João Pedro Saraiva Martinho	up202204883@up.pt
+202204916	2	Rodrigo Ferreira Leite Real Miranda	up202204916@up.pt
+202204943	2	Gonçalo Gonçalves da Costa Pinto	up202204943@up.pt
+202204962	2	Pedro Daniel Freitas João	up202204962@up.pt
+202204971	2	Antero Cabral Marques Morgado	up202204971@up.pt
+202204973	2	Duarte Manuel Gonçalves Marques	up202204973@up.pt
+202204985	2	Filipe Gonçalves Neves Gaio	up202204985@up.pt
+202204988	2	Henrique Sardo Fernandes	up202204988@up.pt
+202204996	2	Miguel Pascoal Cabral	up202204996@up.pt
+202205000	2	Manuel Mo	up202205000@up.pt
+202205013	2	Rafael Filipe Barbosa da Costa	up202205013@up.pt
+202205020	2	Sofia Afonso Gonçalves	up202205020@up.pt
+202205022	2	Hugo Miguel Lopes da Cruz	up202205022@up.pt
+202205028	2	Marta Filipa Martins Tavares da Cruz	up202205028@up.pt
+202205038	2	Miguel Lopes Guerrinha	up202205038@up.pt
+202205045	2	Tomas dos Santos Nunes Loureiro Esteves	up202205045@up.pt
+202205062	2	Yves François Joseph Bonneau	up202205062@up.pt
+202205081	2	Tiago Filipe Sousa Gonçalves	up202205081@up.pt
+202205091	2	Ricardo Ascensão Parreira	up202205091@up.pt
+202205124	2	Renata Soares Bandeira Simão	up202205124@up.pt
+202205138	2	Eduardo Costa da Cruz	up202205138@up.pt
+202205140	2	Guilherme de Sá Guerra	up202205140@up.pt
+202205143	2	José Diogo Alves Granja	up202205143@up.pt
+202205144	2	Leonardo Monteiro Ribeiro	up202205144@up.pt
+202205152	2	Tomás Sabino Dias Costa	up202205152@up.pt
+202205188	2	Rodrigo Albergaria Coelho e Silva	up202205188@up.pt
+202205201	2	Diogo Alexandre Moreira Faria	up202205201@up.pt
+202205225	2	Diogo Costa Pinto	up202205225@up.pt
+202205295	2	Diogo Miguel Fernandes Ferreira	up202205295@up.pt
+202205298	2	Guilherme Moura Pinho Andrade Silva	up202205298@up.pt
+202205318	2	Gonçalo Joaquim Vale Remelhe	up202205318@up.pt
+202205322	2	Rodrigo Faria da Cunha Matos Leite	up202205322@up.pt
+202205353	2	Ricardo de Freitas Oliveira	up202205353@up.pt
+202205420	2	Filipe Alves Afonso	up202205420@up.pt
+202205425	2	Luís Daniel Monteiro Cordeiro	up202205425@up.pt
+202205433	2	João Carlos Sant Ovaia da Silva Oliveira	up202205433@up.pt
+202205469	2	Antonio Abilio Parada Santos	up202205469@up.pt
+202205479	2	Max Teh Ribeiro	up202205479@up.pt
+202205501	2	António Pedro Ribeiro de Queirós Pereira	up202205501@up.pt
+202205515	2	Rodrigo Gomes de Araújo	up202205515@up.pt
+202205521	2	Gonçalo José Fernandes Moreira	up202205521@up.pt
+202205527	2	Micaela Ariana Dobrões Albino	up202205527@up.pt
+202205538	2	Gonçalo Farinha Nunes	up202205538@up.pt
+202205576	2	João André Rey Torres	up202205576@up.pt
+202205612	2	Ana Beatriz Carneiro Ferreira	up202205612@up.pt
+202205619	2	Bruno António Braga de Aguiar	up202205619@up.pt
+202205629	2	Duarte Ribeiro Lagoela	up202205629@up.pt
+202205636	2	Sara de Oliveira Cortez	up202205636@up.pt
+202205682	2	João Francisco Costa Cordeiro	up202205682@up.pt
+202205692	2	Paulo Jorge Machado Coutinho	up202205692@up.pt
+202205693	2	Pedro da Silva Marinho	up202205693@up.pt
+202205714	2	Luna Gomes Cunha	up202205714@up.pt
+202205749	2	Miguel Tomás Vieira Rodrigues	up202205749@up.pt
+202205751	2	Rodrigo Dias Ferreira Loureiro de Sousa	up202205751@up.pt
+202205765	2	Guilherme Roque Ferreira Leite Caetano Martins	up202205765@up.pt
+202205770	2	Gustavo Filipe Ramos Oliveira	up202205770@up.pt
+202205774	2	Hugo Alexandre Almeida Barbosa	up202205774@up.pt
+202205794	2	João Pedro Nogueira da Hora Santos	up202205794@up.pt
+202205795	2	José Pinto Ferreira	up202205795@up.pt
+202205796	2	Leonor Barreto Guimarães do Couto	up202205796@up.pt
+202205900	2	Pedro Trindade Gonçalves Cadilhe Santos	up202205900@up.pt
+202205908	2	Carlos Ferreira Marta Carreira da Costa	up202205908@up.pt
+202205965	2	Ana Isabel Ribeiro de Oliveira	up202205965@up.pt
+202205981	2	Diogo Miguel Martinho Silva	up202205981@up.pt
+202205982	2	Diogo Miguel Mendes de Faria	up202205982@up.pt
+202206002	2	Afonso Mansilha Vieira Leite da Silva	up202206002@up.pt
+202206009	2	Bernardo Silveira Lobato Gomes de Sousa	up202206009@up.pt
+202206062	2	Xavier Costa Dias de Sousa Guimarães	up202206062@up.pt
+202206091	2	Tomás de Melo Telmo	up202206091@up.pt
+202206097	2	Beatriz Alexandra de Almeida Bernardo	up202206097@up.pt
+202206098	2	Beatriz Fernandes Sonnemberg	up202206098@up.pt
+202206102	2	Miguel Simão Duarte	up202206102@up.pt
+202206120	2	Joana Luís Sá Marques Pimenta	up202206120@up.pt
+202206173	2	Cláudia Sofia Teixeira Mesquita	up202206173@up.pt
+202206180	2	Pedro Meireles Fonseca Costa	up202206180@up.pt
+202206186	2	Nuno Miguel Carvalho Saavedra Machado	up202206186@up.pt
+202206205	2	Gonçalo Cunha Marques	up202206205@up.pt
+202206230	2	Pedro Jorge das Neves Pinto Vieira	up202206230@up.pt
+202206232	2	Tiago Grilo Ribeiro Rocha	up202206232@up.pt
+202206257	2	Pedro Tiago Soares Oliveira	up202206257@up.pt
+202206262	2	Valentina Pereira Cadime	up202206262@up.pt
+202206272	2	Nuno Simão Nunes Rios	up202206272@up.pt
+202206280	2	Tiago Daniel da Silva Pinto	up202206280@up.pt
+202206284	2	Joana Alves Moreira Noites	up202206284@up.pt
+202206285	2	Joao Carlos Camisao Pinheiro	up202206285@up.pt
+202206289	2	Nuno Pinho Fernandes	up202206289@up.pt
+202206296	2	Liess Pereira Aouimeur	up202206296@up.pt
+202206312	2	David dos Santos Carvalho Ranito	up202206312@up.pt
+202206313	2	Eduardo Ferreira Baltazar	up202206313@up.pt
+202206349	2	Ricardo Alexandre Alves Ramos	up202206349@up.pt
+202206351	2	Bruno Coutinho Pereira	up202206351@up.pt
+202206369	2	Marta Gomes Ferreira Martins	up202206369@up.pt
+202206370	2	Simão José Costa Neri	up202206370@up.pt
+202206371	2	Tatiana Wang Lin	up202206371@up.pt
+202206392	3	Ricardo Miguel Matos Oliveira Peralta	up202206392@up.pt
+202206396	2	Rodrigo Lourenço Ribeiro	up202206396@up.pt
+202206399	2	Tiago Alexandre Vieira Torrado	up202206399@up.pt
+202206456	2	Gonçalo Guedes da Conceição	up202206456@up.pt
+202206479	2	Duarte Paiva Padrão	up202206479@up.pt
+202206498	2	Pedro Marta Oliveira	up202206498@up.pt
+202206499	2	Rafael Teixeira de Magalhães	up202206499@up.pt
+202206515	2	Filipe Neves de Lemos Esteves	up202206515@up.pt
+202206575	2	João Pedro Monteiro de Castro	up202206575@up.pt
+202206628	2	Eduardo Castro Portugal Ferreira	up202206628@up.pt
+202206632	2	Xavier dos Santos Portugal Martins	up202206632@up.pt
+202206633	2	Alexandre António Pinho da Silva	up202206633@up.pt
+202206636	2	Gonçalo Araújo Guimarães Cardoso Sampaio	up202206636@up.pt
+202206640	2	Tiago Costa Martins	up202206640@up.pt
+202206667	2	Tomás Caetano Menoita Marques	up202206667@up.pt
+202206693	2	Gabriel Fragoso Lima	up202206693@up.pt
+202206733	2	Rodrigo Pinheiro Vieira Teixeira de Almeida	up202206733@up.pt
+202206776	2	Filipe Martins Correia	up202206776@up.pt
+202206777	2	Gabriela Rodrigues da Silva	up202206777@up.pt
+202206828	2	Teresa Raquel de Azevedo Maia e Gonzaga de Mascarenhas	up202206828@up.pt
+202206845	2	Luana Filipa de Matos Lima	up202206845@up.pt
+202206854	2	Pedro Miguel Silva Roleira Marinho	up202206854@up.pt
+202206856	2	Sérgio Rego Nossa	up202206856@up.pt
+202206871	2	Ismael Medeiros Moniz	up202206871@up.pt
+202206944	2	Miguel Filipe Coelho Mateus	up202206944@up.pt
+202206958	2	Martim Teixeira Elói Moniz	up202206958@up.pt
+202206961	2	Pedro dos Santos Sousa Pedro	up202206961@up.pt
+202206970	2	Luís Miguel Melo Arruda	up202206970@up.pt
+202207015	2	Alexandre Fernandes Lopes	up202207015@up.pt
+202207041	2	Guilherme Silveira Rego	up202207041@up.pt
+202207073	2	Tiago Daniel Martins dos Santos	up202207073@up.pt
+202207086	2	Rubem Viscard Neto	up202207086@up.pt
+202207126	2	Eduardo Martins Rodrigues da Cunha	up202207126@up.pt
+202207134	2	Raquel Gomes Fernandes	up202207134@up.pt
+202207150	2	João Pedro Pinto Lunet	up202207150@up.pt
+202207183	2	Rui Xavier Costa da Silva	up202207183@up.pt
+202207217	2	Dinis Afonso Cerqueira Galvão	up202207217@up.pt
+202207236	2	Tomás Freitas Linhares	up202207236@up.pt
+202207257	2	Jorge Miguel Alves da Costa Caldas	up202207257@up.pt
+202207285	2	João Pedro Castanheira da Costa Abreu de Sousa	up202207285@up.pt
+202207292	2	Rodrigo José Pires de Sousa	up202207292@up.pt
+202207301	2	Vítor Manuel Pereira Pires	up202207301@up.pt
+202207311	2	Tiago Fernando da Costa Ferreira	up202207311@up.pt
+202207313	2	Afonso Martim Moreira Domingues	up202207313@up.pt
+202207320	2	Gonçalo Augusto Sousa	up202207320@up.pt
+202207334	2	Ana Sofia Costa das Neves Baptista	up202207334@up.pt
+202207341	1	Joao Pedro Teixeira Martins	up202207341@up.pt
+202207380	2	Beatriz Lachado Pereira	up202207380@up.pt
+202207410	2	Lucas Branquinho Alfonsi	up202207410@up.pt
+202207429	2	Alexandre Teixeira Chouzende	up202207429@up.pt
+202207475	2	Rui Pedro dos Santos Borges	up202207475@up.pt
+202207478	2	Rodrigo Ferreira Alves	up202207478@up.pt
+202207499	2	Alexandre Torres Costa	up202207499@up.pt
+202207517	2	Bruno Huang	up202207517@up.pt
+202207521	2	Eduardo Narciso Rodrigues dos Santos	up202207521@up.pt
+202207524	2	Guilherme Filipe Faria Ferreira	up202207524@up.pt
+202207540	2	Lucas Nelson Pinheiro Faria	up202207540@up.pt
+202207545	2	Mariana Pinto Pereira	up202207545@up.pt
+202207547	2	Miguel Gomes Fernandes	up202207547@up.pt
+202207549	2	Nuno Miguel Oliveira Mota	up202207549@up.pt
+202207552	2	Pedro Rafael Correia Borges	up202207552@up.pt
+202207553	2	Rafael Ângelo dos Reis Campeão	up202207553@up.pt
+202207564	2	Vasco Ferreira da Rocha Melo	up202207564@up.pt
+202207579	2	Bernardo Marques Soares da Costa	up202207579@up.pt
+202207582	2	Clara Paulino Barros Sousa	up202207582@up.pt
+202207592	2	Gonçalo Miguel Dias Ferros	up202207592@up.pt
+202207611	2	Afonso Jorge Fernandes Machado	up202207611@up.pt
+202207673	2	Maria João Vilarinho Ferreira de Oliveira	up202207673@up.pt
+202207678	2	Miguel Moita Caseira	up202207678@up.pt
+202207715	2	Vitor Alexandre Azevedo Pereira	up202207715@up.pt
+202207724	2	André Simões Lima Santos	up202207724@up.pt
+202207733	2	Alvaro Tomas Teixeira Silva Pacheco	up202207733@up.pt
+202207742	2	Margarida Campos Martins da Fonseca	up202207742@up.pt
+202207769	2	João Medeiros Miranda	up202207769@up.pt
+202207784	2	Gabriel da Quinta Braga	up202207784@up.pt
+202207790	2	João Pedro Maia Guedes Moreira Tedim	up202207790@up.pt
+202207798	2	Angelo Rafael Araújo Oliveira	up202207798@up.pt
+202207805	2	Diogo Maria Santos Venade	up202207805@up.pt
+202207832	2	Gonçalo Nuno Santos Pires Barroso	up202207832@up.pt
+202207835	2	João Henrique Andrade Proença	up202207835@up.pt
+202207863	2	Bruno Miguel Gonçalves Ferreira	up202207863@up.pt
+202207871	2	Jose Pedro Pereira da Costa	up202207871@up.pt
+202207877	2	Mariana de Sá e Melo	up202207877@up.pt
+202207879	2	Marta Araújo Costa	up202207879@up.pt
+202207890	2	Tiago de Pinho Bastos de Oliveira Pinheiro	up202207890@up.pt
+202207919	2	Vanessa Sophie Barros Queirós	up202207919@up.pt
+202207931	2	Afonso Fernandes Moura	up202207931@up.pt
+202207939	2	Bernardo Correia Brandão	up202207939@up.pt
+202207944	2	Diogo Alves Goiana Martins	up202207944@up.pt
+202207954	2	Diogo Salazar Ramos	up202207954@up.pt
+202207975	2	Júlio Duarte Pinto dos Santos	up202207975@up.pt
+202207986	2	Miguel Correia Barros Pereira Sousa	up202207986@up.pt
+202207987	2	Pedro Afonso Nunes Fernandes	up202207987@up.pt
+202208001	2	Leandro Joel Santos Martins	up202208001@up.pt
+202208011	2	Rui Pedro da Silva Cruz	up202208011@up.pt
+202208023	2	Tomás David Silva	up202208023@up.pt
+202208026	2	Afonso Pedro Maia de Castro	up202208026@up.pt
+202208028	2	Alexandre Gonçalves Ramos	up202208028@up.pt
+202208030	2	Ana Filipa Borges Geraldes	up202208030@up.pt
+202208039	2	Filipa Jacob Fidalgo	up202208039@up.pt
+202208040	2	Filipe Mexedo Guerra Ferraz Camacho	up202208040@up.pt
+202208041	2	Tomás da Silva Custódio Teixeira	up202208041@up.pt
+202208115	2	Francisco Miguel Pires Afonso	up202208115@up.pt
+202208135	2	Sofia Martins Pereira da Cruz	up202208135@up.pt
+202208158	2	Luciano João Caramez Ferreira	up202208158@up.pt
+202208189	2	Artur Rafael da Rocha Moreira	up202208189@up.pt
+202208247	2	Diana Magalhães Moreira Nunes	up202208247@up.pt
+202208258	2	Marta Duarte Lopes da Silva	up202208258@up.pt
+202208288	2	José Filipe Silva Lopes	up202208288@up.pt
+202208296	2	Lucas Greco do Espirito Santo Jorge	up202208296@up.pt
+202208319	2	Duarte Souto Assunção	up202208319@up.pt
+202208340	2	Miguel Freitas de Oliveira	up202208340@up.pt
+202208345	2	Pedro Gonçalo Mendes Alves de Oliveira	up202208345@up.pt
+202208354	2	Rodrigo Oliveira Tsou	up202208354@up.pt
+202208369	2	Mariana Filipa Rodrigues Pina	up202208369@up.pt
+202208374	2	Mário José Ribeiro Araújo	up202208374@up.pt
+202208393	2	João Vítor da Costa Ferreira	up202208393@up.pt
+202208396	2	Lucas Gonçalves Bessa	up202208396@up.pt
+202208415	2	Tomás Ferreira de Oliveira	up202208415@up.pt
+202208425	2	Gonçalo Morais Magalhães	up202208425@up.pt
+202208429	2	Luís Martim Barbosa Cabral Ferreira	up202208429@up.pt
+202208437	2	Tomas de Vasconcelos Fernandes Vinhas	up202208437@up.pt
+202208453	2	Deniz Lopes Günes	up202208453@up.pt
+202208465	2	Ricardo Miguel Yang	up202208465@up.pt
+202208469	1	Cristiano Moreira Constante	up202208469@up.pt
+202208485	2	Francisco Justo dos Santos Fernandes	up202208485@up.pt
+202208506	2	Pedro Tavares Santos	up202208506@up.pt
+202208511	2	Tiago Morais de Pimentel Teixeira	up202208511@up.pt
+202208526	2	Francisco Maria Barreira Bandeira	up202208526@up.pt
+202208536	1	Maria Beatriz Carvalho Marques da Silva Martins	up202208536@up.pt
+202208586	2	João Vicente Pereira Mendes	up202208586@up.pt
+202208602	2	Rafael Costa Pires	up202208602@up.pt
+202208654	2	David Gustavo de Campos Carvalho	up202208654@up.pt
+202208689	2	Lara Marques Pinto Coelho	up202208689@up.pt
+202208700	2	Bruno Ricardo Soares Pereira de Sousa Oliveira	up202208700@up.pt
+202208723	2	Diogo da Silva Vieira	up202208723@up.pt
+202208726	2	Leonardo de Sousa Magalhães Teixeira	up202208726@up.pt
+202208750	2	Francisco Manuel Carneiro de Moura	up202208750@up.pt
+202208752	2	Henrique Silva Marques	up202208752@up.pt
+202208755	2	Guilherme Duarte Silva Matos	up202208755@up.pt
+202208783	2	João Pedro Martins Mendes	up202208783@up.pt
+202208795	2	David Moura Gonçalves	up202208795@up.pt
+202208817	2	José Carlos Malheiro de Sousa	up202208817@up.pt
+202208819	2	Luís Pedro Neto Fiunte	up202208819@up.pt
+202208825	2	Iara Catarina Sampaio dos Santos Brás	up202208825@up.pt
+202208862	2	Antonio Andrade Cação Ribeiro da Cunha	up202208862@up.pt
+202208910	2	Tiago Miguel Alves Pires	up202208910@up.pt
+202208936	2	João Pedro Pereira Carvalho da Silva	up202208936@up.pt
+202208938	2	Tiago Freitas Torres	up202208938@up.pt
+202208939	2	Gabriel da Costa Filipe Carvalho	up202208939@up.pt
+202208948	2	João Miguel Peixoto Lamas	up202208948@up.pt
+202208954	2	Álvaro Luís Dias Amaral Alvim Torres	up202208954@up.pt
+202208957	2	Rafael Sousa Cunha	up202208957@up.pt
+202208997	2	Tomás Fonseca Gonçalves	up202208997@up.pt
+202209448	2	Sofia Blyzniuk	up202209448@up.pt
+202209504	2	Bárbara Vilar Ribeiro	up202209504@up.pt
+202209531	2	Marlon Rodrigues Belo	up202209531@up.pt
+202209729	2	Abecassis Felisberto Devesse	up202209729@up.pt
+202209730	2	Bruno Miguel Ataide Fortes	up202209730@up.pt
+202209731	1	Célio Davi Fidel Castro da Silva	up202209731@up.pt
+202209732	1	Christian Denilson Paul Mendonça	up202209732@up.pt
+202209734	1	Joyce Offman da Costa	up202209734@up.pt
+202209735	2	Melissa Nízero Cuna	up202209735@up.pt
+202209795	1	Alberto Aurélio Nhancale	up202209795@up.pt
+202209797	1	Isis Sophia Afonso D'Assunção Sequeira Bragança	up202209797@up.pt
+202209800	1	Norita Prisila Nelson Mucavele	up202209800@up.pt
+202210143	2	Gonçalo Francisco Araújo Moreira	up202210143@up.pt
+202210200	2	Mateus Soares Lucena de Noronha Lima	up202210200@up.pt
+202210292	2	Pedro Paulo Gorobey	up202210292@up.pt
+202210329	2	David Tavares Simões	up202210329@up.pt
+202210342	1	Pedro Henrique Pereira Gomes	up202210342@up.pt
+202210478	2	Oleksandr Aleshchenko	up202210478@up.pt
+202210537	3	Eduardo da Silva Miranda	up202210537@up.pt
+202210562	2	Maryna Kalaur	up202210562@up.pt
+202210576	2	Viktoriia Kutsel	up202210576@up.pt
+202210671	1	Miguel Carvalho Lobo Souto	up202210671@up.pt
+202210871	1	Esdras Raúl Cossa	up202210871@up.pt
+202211573	1	Zakaria Mahassine	up202211573@up.pt
+202211647	2	Amanda Tartarotti Cardozo da Silva	up202211647@up.pt
+202211901	1	Othmane Staila	up202211901@up.pt
+202212184	1	Danyl Sakharov	up202212184@up.pt
+202212317	2	Saifullah -	up202212317@up.pt
+202212353	2	- Salar	up202212353@up.pt
+202300368	1	Arthur Pessoa de Mello Teixeira	up202300368@up.pt
+202300401	1	Heitor Amorim Brandão	up202300401@up.pt
+202300416	1	Víctor Angelo Cardoso Oliveira	up202300416@up.pt
+202300428	1	Rafael Hartilek Issa	up202300428@up.pt
+202300449	1	André Barros Siqueira	up202300449@up.pt
+202300465	1	Rodrigo de Souza Cailleaux	up202300465@up.pt
+202300588	1	Arthur Rodrigues Signoretti	up202300588@up.pt
+202300600	2	Yuka Sakai	up202300600@up.pt
+202300686	1	Mamadou Saliou Diallo	up202300686@up.pt
+202301897	1	Casemiro Melo Jorge de Medeiros	up202301897@up.pt
+202302039	1	Leonardo Rodrigues Silva e Souza	up202302039@up.pt
+202302132	1	Luca Baddini Zielinsky	up202302132@up.pt
+202303440	1	Mateus Sousa Pereira Guerra	up202303440@up.pt
+202303446	1	Raul Nunes Andrade e Silva de Oliveira	up202303446@up.pt
+202303450	1	Tiago Pinto Cardoso de Almeida	up202303450@up.pt
+202303457	1	Afonso Dinis Fernandes Malainho Pimenta Simões	up202303457@up.pt
+202303505	1	Felipe Bueno de Moraes Araujo Ramos	up202303505@up.pt
+202303524	1	Tomás Silva Sousa	up202303524@up.pt
+202303547	1	Carolina Alves Ferreira	up202303547@up.pt
+202303572	1	David Mendes Rodrigues	up202303572@up.pt
+202303614	1	Afonso Miguel Magalhães Caetano	up202303614@up.pt
+202303628	1	Guilherme Macedo Nereu	up202303628@up.pt
+202303635	1	Bernardo Pires Friões	up202303635@up.pt
+202303637	1	Carolina Sofia Herdeiro Vieira Mosqueiro	up202303637@up.pt
+202303640	1	Francisca Vilares Portugal	up202303640@up.pt
+202303662	1	Sofia Rebelo Sá e Sousa	up202303662@up.pt
+202303664	1	Tomás Costa Barros	up202303664@up.pt
+202303695	1	Rodrigo Vilaça Soares	up202303695@up.pt
+202303700	1	Tiago João Campos Afonseca	up202303700@up.pt
+202303702	1	Vicente Ferreira da Silva	up202303702@up.pt
+202303713	1	Diogo José Agostinho Silva	up202303713@up.pt
+202303772	1	Leonor Alexandra Grilo Matias	up202303772@up.pt
+202303784	1	Jose Mauricio Mota Bastos	up202303784@up.pt
+202303793	1	Beatriz de Sousa Bastos	up202303793@up.pt
+202303814	1	Isabel Amaro da Fonseca e Ferro Roque	up202303814@up.pt
+202303829	1	Joao Afonso Cosme Ferreira da Silva	up202303829@up.pt
+202303834	1	Maria Carneiro de Sousa	up202303834@up.pt
+202303855	1	Rafael dos Santos Rodrigues	up202303855@up.pt
+202303869	1	Micael Rotaru	up202303869@up.pt
+202303872	1	Luis Wolffrom Barbosa	up202303872@up.pt
+202303896	1	Daniela Baptista Azevedo	up202303896@up.pt
+202303899	1	Diogo Dinis Ribeiro	up202303899@up.pt
+202303903	1	Gonçalo Jorge Bebiano Bexiga	up202303903@up.pt
+202303908	1	João Eduardo Oliveira Santos	up202303908@up.pt
+202303917	1	Maria Luísa da Costa Silva Claro	up202303917@up.pt
+202303946	1	Carlos David Martins Coutinho	up202303946@up.pt
+202303997	1	Manuel Cordeiro Pedro	up202303997@up.pt
+202304025	1	Luís António Esteves Martins	up202304025@up.pt
+202304040	1	Leonor Alexandra Costa Azevedo	up202304040@up.pt
+202304047	1	Tiago Alexandre de Boaventura Nunes	up202304047@up.pt
+202304064	1	Gabriela de Mattos Barboza da Silva	up202304064@up.pt
+202304083	1	Dinis Faleiro Bahia Cabral Lima	up202304083@up.pt
+202304113	1	Teresa Freitas dos Santos	up202304113@up.pt
+202304126	1	Ricardo Alexandre Ribeiro Fernandes	up202304126@up.pt
+202304187	1	Helder Gonçalo Ferreira de Almeida e Oliveira	up202304187@up.pt
+202304190	1	Luís Miguel Magalhães Oliveira	up202304190@up.pt
+202304217	1	João Henrique Teixeira da Silva	up202304217@up.pt
+202304252	1	André Campos Gomes	up202304252@up.pt
+202304284	1	Filipe Lemos Paiva	up202304284@up.pt
+202304298	1	João Carlos Sousa Malheiro	up202304298@up.pt
+202304306	1	Maria Luiza Henriques Vieira	up202304306@up.pt
+202304347	1	Luis Andre Pinho Pinhal Moreira da Silva	up202304347@up.pt
+202304387	1	Miguel Borges Pereira	up202304387@up.pt
+202304399	1	Tiago Vicente Rodrigues	up202304399@up.pt
+202304408	1	Pedro Miguel Castanho Pereira	up202304408@up.pt
+202304412	1	Pedro Alexandre Henriques Ferreira	up202304412@up.pt
+202304442	1	Nicolas Magalhães Ramos	up202304442@up.pt
+202304459	1	Tomás Borges Andrade	up202304459@up.pt
+202304461	1	Afonso Tavares Fernandes de Almeida Saraiva	up202304461@up.pt
+202304496	1	Hugo André Afonso Ribeiro	up202304496@up.pt
+202304500	1	Pedro Miguel Rodrigues Fernandes	up202304500@up.pt
+202304507	1	Camila de Almeida Correia	up202304507@up.pt
+202304548	1	Diogo Miguel da Rocha Marques	up202304548@up.pt
+202304549	1	Duarte Miguel Pombo Martins	up202304549@up.pt
+202304562	1	Gonçalo de Carvalho Ferreira	up202304562@up.pt
+202304565	1	Gustavo Pinto dos Santos	up202304565@up.pt
+202304594	1	Guilherme Afonso Peixoto Maciel de Pinho Triães	up202304594@up.pt
+202304607	1	João Pedro Marques Amaral Rosas de Sousa	up202304607@up.pt
+202304621	1	Bia de Almeida Pinto	up202304621@up.pt
+202304643	1	Leandro Rodrigo dos Santos Sampaio	up202304643@up.pt
+202304692	1	Tomás da Silva Morais	up202304692@up.pt
+202304717	1	Guilherme Andrade Oliveira	up202304717@up.pt
+202304718	1	Gustavo Luis Gommans Aguiar Teixeira	up202304718@up.pt
+202304726	1	Inês Teixeira Francisco	up202304726@up.pt
+202304762	1	Tiago Miguel da Costa Oliveira	up202304762@up.pt
+202304836	1	Guilherme Duarte Almeida Santos	up202304836@up.pt
+202304897	1	Pedro Bruno Tavares Sobral do Vale Peixoto	up202304897@up.pt
+202304901	1	Rafael Luz Cunha	up202304901@up.pt
+202304904	1	Santiago da Silva Ferreira	up202304904@up.pt
+202304911	1	Tomas Pinto Ramos	up202304911@up.pt
+202304912	1	Vasco Nuno Pinhal Ferreira Alves	up202304912@up.pt
+202304944	1	Martim Maria Abreu Pena da Costa Leme	up202304944@up.pt
+202304950	1	Miguel São João Roque	up202304950@up.pt
+202304957	1	Daniel Franco Pinto	up202304957@up.pt
+202304958	1	Gabriela do Carmo Pereira Martins	up202304958@up.pt
+202304965	1	Mario Landim Moraes Marques Pereira	up202304965@up.pt
+202304970	1	Afonso Cerqueira de Sousa Gomes Bouça	up202304970@up.pt
+202304974	1	Daniel Zhan Li	up202304974@up.pt
+202304978	1	Gustavo Henrique Faria da Costa Ferreira de Madureira	up202304978@up.pt
+202305008	1	José Augusto Pereira Mogrão Teixeira	up202305008@up.pt
+202305009	1	José Sebastião Pereira Vizcaíno	up202305009@up.pt
+202305013	1	Joana Couto Salgado	up202305013@up.pt
+202305021	1	Carlos André Gomes Cerqueira	up202305021@up.pt
+202305033	1	Alexandre Santos Lobato Vaz Saleiro	up202305033@up.pt
+202305035	1	Ana Belém Meireles Bilhoto	up202305035@up.pt
+202305057	1	Pedro Manuel Cerqueira Gonçalves	up202305057@up.pt
+202305060	1	Ana João Pires Castanheiros	up202305060@up.pt
+202305062	1	Carolina Lima Roque	up202305062@up.pt
+202305069	1	Jorge Miguel Sá Sotomaior de Sousa	up202305069@up.pt
+202305080	1	Guilherme Mâncio dos Santos Oliveira Gamelas	up202305080@up.pt
+202305089	1	Bárbara Catarina Cerqueira Veloso Gomes	up202305089@up.pt
+202305120	1	Luís Miguel Costa Gonçalves	up202305120@up.pt
+202305159	1	João Afonso Pinheiro	up202305159@up.pt
+202305179	1	Tiago Miguel Veiga Monteiro	up202305179@up.pt
+202305180	1	Tiago Vasques Moreira	up202305180@up.pt
+202305199	1	Luísa Brites Machado Monteiro	up202305199@up.pt
+202305204	1	João Pedro Nunes Ferreira	up202305204@up.pt
+202305211	1	José Pedro Castro Soutinho	up202305211@up.pt
+202305236	1	Eduarda Gouveia Magno	up202305236@up.pt
+202305264	1	Ana Margarida da Costa Ribeiro	up202305264@up.pt
+202305274	1	Ana Carolina Copolecchia Carvalhal	up202305274@up.pt
+202305312	1	Maurício Gabriel Brandão Sardinha	up202305312@up.pt
+202305327	1	Sara Marques Ribeiro	up202305327@up.pt
+202305348	1	Tomás Ferreira da Costa	up202305348@up.pt
+202305373	1	Rafael da Silva Pimentel Oliveira	up202305373@up.pt
+202305395	1	Hugo Ribeiro Alves	up202305395@up.pt
+202305410	1	Eduardo Barbosa Fernandes	up202305410@up.pt
+202305411	1	Francisco da Silva Mouta	up202305411@up.pt
+202305418	1	Inês Rocha de Oliveira	up202305418@up.pt
+202305431	1	Narciso António Terrão Barroso	up202305431@up.pt
+202305444	1	António Pedro Alves Pais	up202305444@up.pt
+202305458	1	Camila Castro Silva	up202305458@up.pt
+202305463	1	Cosme José Pinheiro de Sousa	up202305463@up.pt
+202305465	1	Diana Sofia Neves Magro	up202305465@up.pt
+202305467	1	Diogo Filipe Teixeira de Sousa	up202305467@up.pt
+202305478	1	José Pedro Marques Ferreira	up202305478@up.pt
+202305501	1	Martim Oliveira Neves	up202305501@up.pt
+202305502	1	Matilde de Sá Nogueira de Sousa	up202305502@up.pt
+202305503	1	Nuno Filipe Nunes Costa	up202305503@up.pt
+202305513	1	Vasco Miguel Fidalgo Martins Gonçalves	up202305513@up.pt
+202305533	1	Gonçalo Diogo Gomes França	up202305533@up.pt
+202305542	1	João Gabriel Albuquerque	up202305542@up.pt
+202305560	1	Marta Manuela Bastos Araujo	up202305560@up.pt
+202305564	1	Tiago Mota Cunha	up202305564@up.pt
+202305592	1	André Diogo Caixeirinho Cotrim	up202305592@up.pt
+202305597	1	Francisco Mateus Silveira Lourenço da Fonte	up202305597@up.pt
+202305651	1	Tomás de Almeida Silva Pereira	up202305651@up.pt
+202305652	1	Afonso Miguel Almeida Pereira	up202305652@up.pt
+202305677	1	Henrique Mendes de Oliveira	up202305677@up.pt
+202305685	1	Nádia Vieira da Silva	up202305685@up.pt
+202305711	1	Eduardo Domingues de Brito	up202305711@up.pt
+202305717	1	João Fontes Ribeiro Carapinha	up202305717@up.pt
+202305719	1	Lucas Almeida Oliveira	up202305719@up.pt
+202305722	1	Matilde Oliveira Silva	up202305722@up.pt
+202305776	1	Pedro Diogo Figueira Ferreira	up202305776@up.pt
+202305812	1	João Pedro Câmara Furtado	up202305812@up.pt
+202305817	1	Martinho Borges Cogumbreiro	up202305817@up.pt
+202305823	1	Tomás Correia de Medeiros Ferreira	up202305823@up.pt
+202305828	1	Daniel Moura e Freitas	up202305828@up.pt
+202305866	1	Luís Miguel Almeida Bento	up202305866@up.pt
+202305878	1	Sofia Sousa Furtado	up202305878@up.pt
+202305891	1	Rodrigo Jorge do Rego Rocha	up202305891@up.pt
+202305892	1	Marcelo Augusto Correia Lima	up202305892@up.pt
+202305894	1	Dinis Miguel Soares Almeida	up202305894@up.pt
+202305946	1	Sergio Miguel Cardoso Almeida	up202305946@up.pt
+202305965	1	Hugo Ramalhão Azevedo	up202305965@up.pt
+202305975	1	João Duarte Peixoto Basílio	up202305975@up.pt
+202305998	1	Gonçalo Calapez Peneque Pessoa Lopes	up202305998@up.pt
+202306000	1	Daniel José Carvalho Duarte	up202306000@up.pt
+202306024	1	Duarte Pinto Leite de Bragança	up202306024@up.pt
+202306047	1	Ricardo Luís Ramos Cheta	up202306047@up.pt
+202306063	1	João Gonçalves Ferreira Saraiva Taveira	up202306063@up.pt
+202306081	1	Inês Silva Leite Resende	up202306081@up.pt
+202306091	1	Tomas Gabriel Ferreira Sonim	up202306091@up.pt
+202306104	1	Pedro Miguel Malhão de Meireles	up202306104@up.pt
+202306111	1	Simão Luís Valinho Marques Ribeiro	up202306111@up.pt
+202306120	1	Dinis Alexandre Ferreira Montenegro de Noronha	up202306120@up.pt
+202306128	1	Rui Alexandre Costa Andrade	up202306128@up.pt
+202306129	1	Tiago Catelas Ribeiro Correia	up202306129@up.pt
+202306131	1	Tiago Filipe Silva Valente	up202306131@up.pt
+202306154	1	Emilie da Silva Kernivinen	up202306154@up.pt
+202306202	1	Tomás Freire Noronha Jardim	up202306202@up.pt
+202306207	1	Dinis Barbosa da Silva	up202306207@up.pt
+202306248	1	Ana Figueiredo Alves	up202306248@up.pt
+202306272	1	Francisco Orlando Pimenta Correia	up202306272@up.pt
+202306287	1	Gabriel Cardoso Mota	up202306287@up.pt
+202306302	1	Luisa Correia Fernandes	up202306302@up.pt
+202306311	1	Amanda Brito Japiassu	up202306311@up.pt
+202306314	1	Yago Sentieiro Alba	up202306314@up.pt
+202306317	1	José Dinis Raposo Oliveira da Gama Lobo	up202306317@up.pt
+202306326	1	Pedro Miguel Costa Marques	up202306326@up.pt
+202306331	1	António Lourenço Gomes Barrote Rodrigues	up202306331@up.pt
+202306340	1	Gonçalo Miguel Ferreira Santos	up202306340@up.pt
+202306343	1	Leandro Filipe Pais Resende	up202306343@up.pt
+202306365	1	Daniel Tavares da Silva Marques	up202306365@up.pt
+202306419	1	Ana Catarina Monteiro de Sousa	up202306419@up.pt
+202306429	1	João Miguel Teixeira da Silva	up202306429@up.pt
+202306438	1	Tiago Zou Yin	up202306438@up.pt
+202306445	1	Matilde Ferreira Martins	up202306445@up.pt
+202306461	1	Diogo Alexandre Morais Pinheiro	up202306461@up.pt
+202306480	1	Dinis Afonso Nunes Pinto	up202306480@up.pt
+202306484	1	Diogo Maria Rebocho Christo Aguiar Carvalho	up202306484@up.pt
+202306498	1	Francisco Marinho da Cunha Martins Gomes	up202306498@up.pt
+202306528	1	Filipe Ramos Pinho Solha	up202306528@up.pt
+202306531	1	Gonçalo Copek Braga Rodrigues	up202306531@up.pt
+202306533	1	Hugo Miguel Queirós Nogueira	up202306533@up.pt
+202306547	1	Afonso Delca Araújo	up202306547@up.pt
+202306564	1	Filipe Silva Pinto Lopes	up202306564@up.pt
+202306568	1	Joana Devesas Carvalhal	up202306568@up.pt
+202306578	1	Gustavo Luís Almeida Geraço Lourenço	up202306578@up.pt
+202306582	1	Henrique Perry Sampaio Afonso Simonella	up202306582@up.pt
+202306603	1	Maria Catarina dos Santos Moreira	up202306603@up.pt
+202306606	1	Pedro Dinis Machado Araújo	up202306606@up.pt
+202306609	1	Simão Pedro Silva Barbosa	up202306609@up.pt
+202306618	1	Claudio Daniel Ferreira Meireles	up202306618@up.pt
+202306659	1	Maria Inês Morais de Pinho	up202306659@up.pt
+202306689	1	Maria Carvalho Lopes	up202306689@up.pt
+202306714	1	Pedro Manuel Pinto Coelho	up202306714@up.pt
+202306716	1	Joao Marques Gomes	up202306716@up.pt
+202306719	1	João Rodrigues Alberton Júnior	up202306719@up.pt
+202306727	1	Rafael de Matos Lourenço Lobão	up202306727@up.pt
+202306731	1	Vasco Antonio Liberal Rodrigues Queiros de Sa	up202306731@up.pt
+202306762	1	Maria Ferreira de Jesus	up202306762@up.pt
+202306796	1	Carlos Daniel da Silva Ferreira	up202306796@up.pt
+202306822	1	Lara da Silva Moreira	up202306822@up.pt
+202306823	1	Luis Miguel Rosa Santos	up202306823@up.pt
+202306826	1	Nuno Alexandre Fernandes Gomes	up202306826@up.pt
+202306850	1	Constança Lemos Ferreira	up202306850@up.pt
+202306852	1	Martim Rocha Ribas	up202306852@up.pt
+202306877	1	Sara Alves Garcia	up202306877@up.pt
+202306905	1	Vasco Costa Lemos	up202306905@up.pt
+202306919	1	Gonçalo Costa Pereira Fonseca Santana	up202306919@up.pt
+202306955	1	Tiago Lima Baptista Sousa	up202306955@up.pt
+202306967	1	Gonçalo da Cruz Martins	up202306967@up.pt
+202306968	1	Gonçalo Figueiredo Poças Pinto de Freitas	up202306968@up.pt
+202306972	1	Paulo Diogo Dias Mourato	up202306972@up.pt
+202306973	1	Pedro André Santana Ribas Pinto	up202306973@up.pt
+202306979	1	Sandro Emanuel Ferreira de Sousa	up202306979@up.pt
+202306990	1	Matilde Araújo Cardoso da Fonseca	up202306990@up.pt
+202307008	1	André Martim Morais Pinho	up202307008@up.pt
+202307037	1	Henrique Santana Vilarinho	up202307037@up.pt
+202307040	1	Joana Azevedo Louro	up202307040@up.pt
+202307047	1	José Amaral Ferreira Torres	up202307047@up.pt
+202307104	1	Diogo Costa Alves	up202307104@up.pt
+202307150	1	Ana Francisca Fontes Pacheco	up202307150@up.pt
+202307152	1	Leonardo Barbosa Carvalho	up202307152@up.pt
+202307162	1	Duarte de Meireles Carneiro	up202307162@up.pt
+202307177	1	Diogo Sousa Campeão	up202307177@up.pt
+202307229	1	Maria Beatriz Cunha Leite	up202307229@up.pt
+202307242	1	Pedro André Freitas Monteiro	up202307242@up.pt
+202307295	1	Guilherme Oliveira Linhares	up202307295@up.pt
+202307303	1	João Nuno Maurício Costa	up202307303@up.pt
+202307304	1	José Barbosa Reis	up202307304@up.pt
+202307321	1	Afonso Miguel Franco de Castro Carolino	up202307321@up.pt
+202307344	1	Henrique Ribeiro Goncalves	up202307344@up.pt
+202307365	1	Mafalda Ferreira Dias	up202307365@up.pt
+202307383	1	Hugo Miguel Gomes Silva	up202307383@up.pt
+202307389	1	João Rodrigo de Almeida Marques	up202307389@up.pt
+202307420	1	Catarina da Silva Guimarães	up202307420@up.pt
+202307438	1	Tiago Henrique Oliveira Ribeiro	up202307438@up.pt
+202307459	1	Gonçalo Tavares Pinho Mendes Calvo	up202307459@up.pt
+202307477	1	Paulo Sérgio da Silva Saavedra	up202307477@up.pt
+202307553	1	Bernardo de Sousa Neves	up202307553@up.pt
+202307610	1	Hugo Miguel Teixeira Silva	up202307610@up.pt
+202307612	1	Joao Pedro Magalhaes Marques	up202307612@up.pt
+202307614	1	José Miguel Ferreira Archer	up202307614@up.pt
+202307620	1	Rafael da Silva Dias	up202307620@up.pt
+202307628	1	Carlos Lisboa Cristelo	up202307628@up.pt
+202307631	1	Catarina Loureiro de Bastos	up202307631@up.pt
+202307639	1	Francisco Alves dos Santos Moreira Antunes	up202307639@up.pt
+202307645	1	Inês Santos Silva	up202307645@up.pt
+202307659	1	Arnaldo Ferraz Lopes	up202307659@up.pt
+202307709	1	Ana Luís Pirraco Silva Carvalho	up202307709@up.pt
+202307719	1	Leonor Silva Bidarra	up202307719@up.pt
+202307738	1	Rui António Silva Bicho	up202307738@up.pt
+202307755	1	João Rafael de Bastos Quental	up202307755@up.pt
+202307756	1	João Rodrigues Vila Cova	up202307756@up.pt
+202307778	1	Afonso Miguel Antunes Morais	up202307778@up.pt
+202307780	1	Alexandre de Sá Maciel Oliveira Ferreira	up202307780@up.pt
+202307796	1	Tomás Pereira da Silva	up202307796@up.pt
+202307797	1	Vasco Vaz Vieira	up202307797@up.pt
+202307809	1	João Miguel Lopes	up202307809@up.pt
+202307815	1	Tiago Moreira Arteiro	up202307815@up.pt
+202307823	1	Francisco Gentil António Leiras	up202307823@up.pt
+202307833	1	Martim São Roque Cadilhe	up202307833@up.pt
+202308554	1	Elsa Matilde Rodrigues Soares Barbosa da Silva	up202308554@up.pt
+202308785	2	Tiago Miguel Carneiro Neto	up202308785@up.pt
+202308786	1	Ana Catarina Dias Fernandes da Silva	up202308786@up.pt
+202308787	1	Catarina Magna Rodrigues Oliveira	up202308787@up.pt
+202308788	1	Laura Smykowska Bártolo	up202308788@up.pt
+202308789	1	Petra Marques de Vasconcelos Matos	up202308789@up.pt
+202308996	1	Matilde Ribeiro Antunes Duarte	up202308996@up.pt
+202309183	1	Mykyta Melnykovych	up202309183@up.pt
+202309344	1	Donovan Sérgio Hele	up202309344@up.pt
+202309456	1	Francisco Antunes Tomaz	up202309456@up.pt
+202309532	1	Raí Ribeiro Évora	up202309532@up.pt
+202309537	2	Maria Nóbrega e Alberich Mota	up202309537@up.pt
+202309655	1	Michel Fernando Mathe	up202309655@up.pt
+202309694	1	Flávio António Magalhães	up202309694@up.pt
+202309779	1	Denzel Manuel Ayllon Cravid D'Abreu	up202309779@up.pt
+202309782	1	Maimuna Andreza Hamido	up202309782@up.pt
+202309824	1	Ladielson Cabral Renner	up202309824@up.pt
+202309872	1	Salma Alone Jose Mafundisse	up202309872@up.pt
+202309917	1	Fadi Islem Bendris	up202309917@up.pt
+202309922	1	Rui Pedro Oliveira Rodrigues	up202309922@up.pt
+202309923	1	Divaldo Dos Santos Da Graça Dias	up202309923@up.pt
+202309925	1	Elton De Matos Laranjeira Amado Vaz	up202309925@up.pt
+202309927	1	Gonçalo Ribeiro Paiva	up202309927@up.pt
+202309971	1	Diogo José Vieira Magalhães	up202309971@up.pt
+202310175	1	Daria Mahdych	up202310175@up.pt
+202310176	1	Alvaro Fernandes Gambeta	up202310176@up.pt
+202310202	1	Mariia Hutsul	up202310202@up.pt
+202310259	1	Tamara Fedorenko	up202310259@up.pt
+202310491	1	Ali En-Nas	up202310491@up.pt
+202310619	1	Abdeljalil Hamidi	up202310619@up.pt
+202310620	1	Abdelhakim Hamidi	up202310620@up.pt
+202310622	1	Marwa Ammar	up202310622@up.pt
