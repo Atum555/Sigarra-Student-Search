@@ -36,5 +36,5 @@ def addPhoneNumbers(phoneData:list[list[str]], csvFile:str) -> list[list[str]]:
         for j in list(reversed(sorted(matCH))):
             del phoneData[j]
 
-    for i in range(len(phoneData)): print(f"{bcolors.FAIL}ERROR {bcolors.ENDC} no email match for: {phoneData[i]}")
+    for i in range(len(phoneData)): print(f"{bcolors.FAIL}ERROR{bcolors.ENDC} no email match for: {phoneData[i]}")
     return studentList
