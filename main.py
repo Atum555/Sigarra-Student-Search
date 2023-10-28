@@ -7,12 +7,14 @@ def main_sigarra() -> None:
     # Invalid arguments or help
     if len(sys.argv) < 3 or sys.argv[2] in ["help", "-h"]:
         to_print =  f"{bcolors.OKBLUE}Usage:{bcolors.ENDC} {sys.argv[0]} sigarra "
-        to_print += f"<{bcolors.OKGREEN}cookies_file{bcolors.ENDC}> [-y<years_to_search>] [-c<course_to_search>] [-t<max_threads>]"
+        to_print += f"<{bcolors.OKGREEN}cookies_file{bcolors.ENDC}> [-y<years_to_search>] [-c<course_to_search>] [-t<max_threads>] [-v(enable verbose)]"
         print(to_print)
         to_print =  f"{bcolors.OKBLUE}Example/Default:{bcolors.ENDC} {sys.argv[0]} sigarra "
         to_print += f"{bcolors.UNDERLINE}{bcolors.WARNING}cookies.txt{bcolors.ENDC} -y123 -c22841 -t50"
         print(to_print)
         to_print =  f"{bcolors.OKBLUE}Cookies file:{bcolors.ENDC} must be a text file with {bcolors.FAIL}SI_SESSION{bcolors.ENDC} on the first line and {bcolors.FAIL}SI_SECURITY{bcolors.ENDC} on the second line! "
+        print(to_print)
+        to_print =  f"{bcolors.OKBLUE}Result:{bcolors.ENDC} {sys.argv[0]} Data will be saved to a fail!"
         print(to_print)
         exit(1)
 
@@ -25,22 +27,19 @@ def main_sigarra() -> None:
     YEARS_TO_SEARCH = ("1","2","3")
     COURSE_TO_SEARCH = "22841"
     MAX_THREADS = 50
+    VERBOSE = False
 
     # Parse arguments
     for x in sys.argv[3:]:
         match x[:2]:
-            case "-y":
-                YEARS_TO_SEARCH = tuple(y for y in x[2:])
-            case "-c":
-                COURSE_TO_SEARCH = x[2:]
-            case "-t":
-                MAX_THREADS = int(x[2:])
-            case _:
-                print(f"{bcolors.FAIL}Invalid argument:{bcolors.ENDC} {bcolors.UNDERLINE}{x}{bcolors.ENDC}")
-                exit(1)
+            case "-y": YEARS_TO_SEARCH = tuple(y for y in x[2:])
+            case "-c": COURSE_TO_SEARCH = x[2:]
+            case "-t": MAX_THREADS = int(x[2:])
+            case "-v": VERBOSE = True
+            case _: print(f"{bcolors.FAIL}Invalid argument:{bcolors.ENDC} {bcolors.UNDERLINE}{x}{bcolors.ENDC}"); exit(1)
     
     # Get Student Data
-    studentData = sigarra.get_students_in(COURSE_TO_SEARCH, (SI_SESSION, SI_SECURITY), YEARS_TO_SEARCH, MAX_THREADS)
+    studentData = sigarra.get_students_in(COURSE_TO_SEARCH, (SI_SESSION, SI_SECURITY), YEARS_TO_SEARCH, MAX_THREADS, OUTPUT=VERBOSE)
     
     # Save Data to a folder
     scriptDir = os.path.dirname(os.path.abspath(__file__))
