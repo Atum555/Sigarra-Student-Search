@@ -1,6 +1,6 @@
 Sigarra-Student-Search
 
-RUN script.py sigarra cookies.txt -c22841 -t50 -y123 \
+RUN main.py sigarra cookies.txt -c22841 -t50 -y123 \
 cookies.txt -> File with session cookies \
 -c -> Course code \
 -t -> Max thread count \
