@@ -1,5 +1,6 @@
 import os, sys
 import src.sigarra as sigarra
+from src.phoneNumber import addPhoneNumbers
 from src.bcolors import bcolors
 
 
@@ -14,7 +15,7 @@ def main_sigarra() -> None:
         print(to_print)
         to_print =  f"{bcolors.OKBLUE}Cookies file:{bcolors.ENDC} must be a text file with {bcolors.FAIL}SI_SESSION{bcolors.ENDC} on the first line and {bcolors.FAIL}SI_SECURITY{bcolors.ENDC} on the second line! "
         print(to_print)
-        to_print =  f"{bcolors.OKBLUE}Result:{bcolors.ENDC} {sys.argv[0]} Data will be saved to a fail!"
+        to_print =  f"{bcolors.OKBLUE}Result:{bcolors.ENDC} Data will be saved to a file!"
         print(to_print)
         exit(1)
 
@@ -47,13 +48,43 @@ def main_sigarra() -> None:
     if not os.path.exists(dataFolderDir): os.makedirs(dataFolderDir)
     dataDir = os.path.join(dataFolderDir, f"students_{COURSE_TO_SEARCH}_{''.join(sorted(YEARS_TO_SEARCH))}.txt")
     with open(dataDir, 'w') as file:
-        for student in studentData: file.write("\t".join(x for x in student))
+        for student in studentData: file.write("\t".join(x for x in student) + "\n")
     print(f"Saved to {bcolors.WARNING}{dataDir}{bcolors.ENDC}")
     return None
 
 
 def main_phone():
-    pass
+    # Invalid arguments or help
+    if len(sys.argv) < 4 or sys.argv[2] in ["help", "-h"]:
+        to_print =  f"{bcolors.OKBLUE}Usage:{bcolors.ENDC} {sys.argv[0]} phone "
+        to_print += f"<{bcolors.OKGREEN}studente_data_file{bcolors.ENDC}> <{bcolors.OKGREEN}phone_numbers_file{bcolors.ENDC}> [-v(enable verbose)]"
+        print(to_print)
+        to_print =  f"{bcolors.OKBLUE}Result:{bcolors.ENDC} Data will be saved to a file!"
+        print(to_print)
+        exit(1)
+
+    # Parse arguments
+    studentData = []
+    try:
+        with open(sys.argv[2], 'r') as file:
+            for line in file.readlines(): 
+                if line != "": studentData.append(line.strip().split("\t"))
+    except: print(f"{bcolors.FAIL}ERROR{bcolors.ENDC} with cookies file!"); exit(1)
+
+    phoneDataFile = sys.argv[3]
+
+    # Add Phone Number Data
+    studentData = addPhoneNumbers(studentData, phoneDataFile)
+
+    # Save Data to a folder
+    scriptDir = os.path.dirname(os.path.abspath(__file__))
+    dataFolderDir = os.path.join(scriptDir, "data")
+    if not os.path.exists(dataFolderDir): os.makedirs(dataFolderDir)
+    dataDir = os.path.join(dataFolderDir, f"students_with_phones.txt")
+    with open(dataDir, 'w') as file: 
+        for student in studentData: file.write("\t".join(x for x in student) + "\n")
+    print(f"Saved to {bcolors.WARNING}{dataDir}{bcolors.ENDC}")
+    return None
 
 if __name__ == "__main__":
     # Invalid number of arguments or help
