@@ -86,7 +86,7 @@ def get_students_in(COURSE_TO_SEARCH:str, SI:tuple, YEARS_TO_SEARCH:tuple=("1", 
             except: print(f"Error on student ID {bcolors.FAIL}{student_id}{bcolors.ENDC} on course {bcolors.FAIL}{i_curso}{bcolors.ENDC}: {bcolors.DARKGREY}https://sigarra.up.pt/feup/pt/fest_geral.cursos_list?pv_num_unico={student_id}{bcolors.ENDC}")
         return ()
 
-    if OUTPUT: print(f"Searching for students in Course({bcolors.DARKGREY}{COURSE_TO_SEARCH}{bcolors.ENDC}) in Years({bcolors.DARKGREY}{YEARS_TO_SEARCH}{bcolors.ENDC}) with {bcolors.DARKGREY}{MAX_THREADS}{bcolors.ENDC} threads.")
+    if OUTPUT: print(f"Searching for students in Course({bcolors.DARKGREY}{COURSE_TO_SEARCH}{bcolors.ENDC}) in Years({bcolors.DARKGREY}{','.join([x for x in YEARS_TO_SEARCH])}{bcolors.ENDC}) with {bcolors.DARKGREY}{MAX_THREADS}{bcolors.ENDC} threads.")
     studentIds = ()
     with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_THREADS) as executor: results = executor.map(search_students,range(1, numberOfPagesToSearch() +1))
     for result in results: studentIds += result
