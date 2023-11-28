@@ -77,8 +77,8 @@ def main_phone():
     studentData = addPhoneNumbers(studentData, phoneDataFile)
 
     # Print Phones List
-    phones = list(map(lambda x: x[4], filter(lambda x: x[4], studentData)))
-    print(phones)
+    #phones = list(map(lambda x: x[4], filter(lambda x: x[4], studentData)))
+    #print(phones)
 
     # Save Data to a folder
     scriptDir = os.path.dirname(os.path.abspath(__file__))
